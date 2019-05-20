@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "1f81057e-3919-4844-b1e0-fcb98ddf74db",
+            "Value": {
+                "id": "53964469-7b82-4e29-a73f-ac6140b879ad",
+                "resourcePath": "rooms\\rm_menu\\rm_menu.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "229561e9-ae0a-47f5-b92f-543d5b034b5d",
             "Value": {
                 "id": "1364b79d-a300-4758-8e4f-1ffe28945204",
@@ -68,6 +76,14 @@
                 "id": "d3ac31d2-c52a-4589-870f-6f11d91ffedd",
                 "resourcePath": "views\\3226569d-aa28-4102-9bde-48d5d5a71c39.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3442452b-75ef-4c33-b30a-5bafd6090b62",
+            "Value": {
+                "id": "4d7ba856-bf3d-4589-9dda-fb16057b72f1",
+                "resourcePath": "sprites\\spr_menu_bg\\spr_menu_bg.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -103,14 +119,6 @@
             }
         },
         {
-            "Key": "99feece7-868b-40cd-95db-b69a6549670e",
-            "Value": {
-                "id": "eabf2f6b-1f31-4540-974c-73dbfb4e3b75",
-                "resourcePath": "rooms\\room0\\room0.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
             "Key": "9dc62d9a-87b7-43e2-a452-fb4973609039",
             "Value": {
                 "id": "80f42d72-8829-463a-a09b-5e5a8ebae5fd",
@@ -132,6 +140,14 @@
                 "id": "08c9cef7-faec-42d5-9588-c21ec0e291fd",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "d1cc5a07-e23b-4c01-9411-d354c515d681",
+            "Value": {
+                "id": "4050ff8d-5947-4e8f-b6f0-9741d9ea4cd6",
+                "resourcePath": "views\\d1cc5a07-e23b-4c01-9411-d354c515d681.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
