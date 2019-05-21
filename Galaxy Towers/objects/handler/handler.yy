@@ -87,6 +87,34 @@
             "value": "0",
             "varName": "cards_not_in_use",
             "varType": 6
+        },
+        {
+            "id": "f2aa228d-1f13-496f-af8b-1d35052fe31d",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "combo",
+            "varType": 1
+        },
+        {
+            "id": "5537166b-7574-436c-a19f-c5cedc05b95c",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "game_score",
+            "varType": 1
         }
     ],
     "solid": false,

@@ -9,7 +9,8 @@
         "7dfa4cd1-7118-4a70-ab5c-6d33f44d2627",
         "9b9c3657-e7ce-4ca9-b9e5-be4cf980bf25",
         "86150269-692f-4354-8731-b412ebb49405",
-        "4a8120d6-6d5a-491f-961a-e4157af61781"
+        "4a8120d6-6d5a-491f-961a-e4157af61781",
+        "15f684ad-699a-4d3d-967c-68f849997cbf"
     ],
     "filterType": "GMObject",
     "folderName": "Cards",
