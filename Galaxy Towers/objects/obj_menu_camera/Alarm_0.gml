@@ -1,3 +1,3 @@
 /// @description Start moving downwards
-self.vspeed = 1;
+self.vspeed = camera_speed;
 wait_over = true;

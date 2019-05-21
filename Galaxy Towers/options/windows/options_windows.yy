@@ -9,7 +9,7 @@
     "option_windows_copy_exe_to_dest": false,
     "option_windows_copyright_info": "(c) 2019 FKProjects",
     "option_windows_description_info": "Galaxy Towers Solitair Game",
-    "option_windows_display_cursor": true,
+    "option_windows_display_cursor": false,
     "option_windows_display_name": "Galaxy Towers",
     "option_windows_enable_steam": false,
     "option_windows_executable_name": "${project_name} - $(project_version)",

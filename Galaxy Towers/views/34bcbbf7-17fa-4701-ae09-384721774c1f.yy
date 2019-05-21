@@ -14,7 +14,9 @@
         "76c200e0-10c8-41df-b004-9ca90d5d6d26",
         "c71356ff-f297-40b8-8c36-300779bd4ee4",
         "6f6900af-c477-4d72-9fba-b09fd0c83738",
-        "ffdc6ec2-814d-4d1e-9e17-bdd0c2684e58"
+        "ffdc6ec2-814d-4d1e-9e17-bdd0c2684e58",
+        "b914d47a-f4cb-4c33-8c54-0dd9937b0b7b",
+        "8b14668d-c794-470a-b32f-2a686b2a343f"
     ],
     "filterType": "GMSprite",
     "folderName": "hearts",

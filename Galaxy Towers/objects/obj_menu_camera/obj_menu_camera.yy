@@ -75,6 +75,20 @@
             "value": "False",
             "varName": "wait_over",
             "varType": 3
+        },
+        {
+            "id": "62c7e3fd-7879-456b-94e9-e321b6366367",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "2",
+            "varName": "camera_speed",
+            "varType": 1
         }
     ],
     "solid": false,

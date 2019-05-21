@@ -2,14 +2,14 @@ var r = argument0;
 if(r=0){
 }
 
-var base_x1 = 480
+var base_x1 = 560
 var base_x2 = 960
-var base_x3 = 1440
+var base_x3 = 1360
 
-var base_y = 175
+var base_y = 220
 
-var card_w = sprite_get_width(spr_cardback)
-var card_h = sprite_get_height(spr_cardback)
+var card_w = sprite_get_width(spr_cardback) + 8
+var card_h = sprite_get_height(spr_cardback) + 8
 
 //layer1
 create_random_card(base_x1,base_y,1,1)
@@ -25,8 +25,8 @@ create_random_card(base_x1+(card_w/2),base_y+(card_h/2),2,2)
 create_random_card(base_x2-(card_w/2),base_y+(card_h/2),2,3)
 create_random_card(base_x2+(card_w/2),base_y+(card_h/2),2,4)
 
-create_random_card(base_x3-(card_w/2),base_y+(card_h/2),2,1)
-create_random_card(base_x3+(card_w/2),base_y+(card_h/2),2,1)
+create_random_card(base_x3-(card_w/2),base_y+(card_h/2),2,5)
+create_random_card(base_x3+(card_w/2),base_y+(card_h/2),2,6)
 
 //layer3
 create_random_card(base_x1-(card_w),base_y+(card_h),3,1)
@@ -52,3 +52,5 @@ create_random_card(base_x1+(4.5*card_w),base_y+(1.5*card_h),4,7)
 create_random_card(base_x1+(5.5*card_w),base_y+(1.5*card_h),4,8)
 create_random_card(base_x1+(6.5*card_w),base_y+(1.5*card_h),4,9)
 create_random_card(base_x1+(7.5*card_w),base_y+(1.5*card_h),4,10)
+
+obj_rest_cards.rest_cards = handler.cards_not_in_use

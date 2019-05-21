@@ -1,6 +1,9 @@
 var r = argument0;
 
+randomize();
 give_cards(r);
+update_cards_open();
+draw_card();
 if(r = 1){
 	handler.time = 60;
 }
