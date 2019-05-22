@@ -1,8 +1,10 @@
 var r = argument0;
 
+handler.cards_not_in_use = get_card_types();
 randomize();
 give_cards(r);
 update_cards_open();
+obj_main_stack.stack_enabled = true
 draw_card();
 if(r = 1){
 	handler.time = 60;

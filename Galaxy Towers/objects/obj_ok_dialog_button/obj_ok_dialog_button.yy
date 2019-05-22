@@ -1,18 +1,48 @@
 {
-    "id": "da57689f-c4a3-43bb-a7eb-761d72d26401",
+    "id": "eb888cb8-f242-407b-b94e-29d8faa30c43",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_parent_stack",
+    "name": "obj_ok_dialog_button",
     "eventList": [
         {
-            "id": "3dde85c8-6d1b-4502-947a-9a98049b1b27",
+            "id": "8395f517-99fa-44eb-b0b6-ce1985d892b4",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 10,
+            "eventtype": 6,
+            "m_owner": "eb888cb8-f242-407b-b94e-29d8faa30c43"
+        },
+        {
+            "id": "73a874d1-ef5f-4aa5-9f20-960d96847ce4",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 11,
+            "eventtype": 6,
+            "m_owner": "eb888cb8-f242-407b-b94e-29d8faa30c43"
+        },
+        {
+            "id": "7682f3b2-7e60-4831-b35d-72b47849c44e",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 8,
-            "m_owner": "da57689f-c4a3-43bb-a7eb-761d72d26401"
+            "m_owner": "eb888cb8-f242-407b-b94e-29d8faa30c43"
+        },
+        {
+            "id": "2fa324b2-eeb0-4144-9d9b-040002527ae3",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 4,
+            "eventtype": 6,
+            "m_owner": "eb888cb8-f242-407b-b94e-29d8faa30c43"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -33,7 +63,7 @@
     "physicsStartAwake": true,
     "properties": [
         {
-            "id": "5bdb6bf7-1fb1-4f78-a621-d58ff14961cf",
+            "id": "5576d7be-0a2c-444a-8549-d710eb48dc2a",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -43,11 +73,11 @@
             "rangeMin": 0,
             "resourceFilter": 1023,
             "value": "0",
-            "varName": "stack_enabled",
+            "varName": "hovered",
             "varType": 3
         },
         {
-            "id": "20d5e20a-cd32-4f45-9399-1905e666401b",
+            "id": "fa898d0b-e22e-4a90-8abd-2ca146fa8439",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -57,11 +87,11 @@
             "rangeMin": 0,
             "resourceFilter": 1023,
             "value": "0",
-            "varName": "card_object",
+            "varName": "dialog",
             "varType": 5
         }
     ],
     "solid": false,
-    "spriteId": "cb242c49-af24-4252-8439-ec02a28413e0",
+    "spriteId": "10362bf2-6b10-4ed5-9a9d-8ca4e1ef12f5",
     "visible": true
 }

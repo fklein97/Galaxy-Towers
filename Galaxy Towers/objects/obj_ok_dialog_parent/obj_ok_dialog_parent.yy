@@ -1,18 +1,28 @@
 {
-    "id": "da57689f-c4a3-43bb-a7eb-761d72d26401",
+    "id": "63e4f80e-2783-4040-9df5-70307173119a",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_parent_stack",
+    "name": "obj_ok_dialog_parent",
     "eventList": [
         {
-            "id": "3dde85c8-6d1b-4502-947a-9a98049b1b27",
+            "id": "0be0c7b0-9cfa-499f-a332-e93b2669ddea",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 8,
-            "m_owner": "da57689f-c4a3-43bb-a7eb-761d72d26401"
+            "m_owner": "63e4f80e-2783-4040-9df5-70307173119a"
+        },
+        {
+            "id": "d59e61a3-3c53-440d-b09b-ba77c43393b3",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "63e4f80e-2783-4040-9df5-70307173119a"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -33,7 +43,7 @@
     "physicsStartAwake": true,
     "properties": [
         {
-            "id": "5bdb6bf7-1fb1-4f78-a621-d58ff14961cf",
+            "id": "251ac9b8-ff84-424e-b6c7-b4ae473b9158",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -42,12 +52,12 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "0",
-            "varName": "stack_enabled",
-            "varType": 3
+            "value": "\"\"",
+            "varName": "dialog_text",
+            "varType": 2
         },
         {
-            "id": "20d5e20a-cd32-4f45-9399-1905e666401b",
+            "id": "f82fd779-f2dc-46c4-8d16-cfa242bc7062",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -57,11 +67,25 @@
             "rangeMin": 0,
             "resourceFilter": 1023,
             "value": "0",
-            "varName": "card_object",
+            "varName": "dialog_button",
+            "varType": 5
+        },
+        {
+            "id": "4604a084-874e-4376-adc0-033fdeca519b",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "dialog_script",
             "varType": 5
         }
     ],
     "solid": false,
-    "spriteId": "cb242c49-af24-4252-8439-ec02a28413e0",
+    "spriteId": "be00c0a3-8f05-4e7b-8197-f100413989cb",
     "visible": true
 }
