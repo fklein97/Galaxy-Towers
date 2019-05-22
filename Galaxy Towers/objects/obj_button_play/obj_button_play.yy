@@ -36,7 +36,16 @@
         }
     ],
     "maskSpriteId": "aefdbe45-c213-400f-ad32-78c5c3745cc5",
-    "overriddenProperties": null,
+    "overriddenProperties": [
+        {
+            "id": "e9f1407f-b4df-42dc-9a5b-9c77b4633283",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "cdb2158a-bb6a-4963-901b-1c491e658dd1",
+            "propertyId": "4de4d3d0-c219-4620-b0bb-4895461b6d5d",
+            "value": "scr_play_button"
+        }
+    ],
     "parentObjectId": "cdb2158a-bb6a-4963-901b-1c491e658dd1",
     "persistent": false,
     "physicsAngularDamping": 0.1,
@@ -52,20 +61,7 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "properties": [
-        {
-            "id": "30f8f6cf-4b99-4b66-88d4-6ce4579b6a66",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "rm_game",
-            "varName": "target_room",
-            "varType": 5
-        }
+        
     ],
     "solid": false,
     "spriteId": "0e0ca107-ac4e-446f-a0dc-258a88e19f81",

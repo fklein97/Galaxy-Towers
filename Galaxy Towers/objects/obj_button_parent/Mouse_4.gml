@@ -1,1 +1,1 @@
-room_goto(target_room);
+script_execute(button_script)

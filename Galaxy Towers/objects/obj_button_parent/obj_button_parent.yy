@@ -53,7 +53,7 @@
     "physicsStartAwake": true,
     "properties": [
         {
-            "id": "b0debcfd-909c-49d6-bd19-8a31eabbad73",
+            "id": "4de4d3d0-c219-4620-b0bb-4895461b6d5d",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -62,8 +62,8 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "",
-            "varName": "target_room",
+            "value": "0",
+            "varName": "button_script",
             "varType": 5
         }
     ],

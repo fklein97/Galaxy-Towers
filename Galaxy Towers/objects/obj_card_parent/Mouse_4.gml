@@ -1,4 +1,4 @@
-if(open = true){
+if(open = true and clickable = true){
 	checked = check(value)
 
 	if(checked > 0){
@@ -13,7 +13,8 @@ if(open = true){
 			obj_second_stack.card_object = self.object_index
 		}
 		instance_destroy(obj_card_hover)
-		instance_destroy(self)
+		fading = true
+		clickable = false
 		update_cards_open()
 		if(handler.combo = 4){
 			draw_card_to_second()

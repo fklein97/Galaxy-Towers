@@ -1,4 +1,4 @@
-if(open = true){
+if(open = true and clickable = true){
 	instance_destroy(obj_card_hover)
 }
 if(y != start_y){
