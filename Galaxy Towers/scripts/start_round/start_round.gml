@@ -1,5 +1,5 @@
 var r = argument0;
-round_over = false
+handler.round_over = false
 handler.cards_not_in_use = get_card_types();
 randomize();
 give_cards(r);
