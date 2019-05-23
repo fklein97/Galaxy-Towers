@@ -223,6 +223,14 @@
             }
         },
         {
+            "Key": "197f68bf-439e-4f39-9032-a51a8a4b0fc8",
+            "Value": {
+                "id": "7b69f504-ec62-428b-a49e-bc4fb5cbe2f8",
+                "resourcePath": "fonts\\fnt_score_change\\fnt_score_change.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "1f4e32b6-84b4-44cd-85d5-cc55a678109b",
             "Value": {
                 "id": "341d1210-2027-4616-ad25-42e20410346c",
@@ -1515,6 +1523,14 @@
             "Value": {
                 "id": "6752bc6d-7986-4c6e-8111-942c270cb03d",
                 "resourcePath": "objects\\obj_hearts_4\\obj_hearts_4.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "eed99083-5b5c-4981-a317-60dc6af59a41",
+            "Value": {
+                "id": "abb54add-763e-4ee9-bd00-c4ece4733e78",
+                "resourcePath": "objects\\obj_score_change_text\\obj_score_change_text.yy",
                 "resourceType": "GMObject"
             }
         },
