@@ -23,6 +23,26 @@
             "enumb": 0,
             "eventtype": 2,
             "m_owner": "a560d660-6b09-4cc3-9f16-d575ae98b56b"
+        },
+        {
+            "id": "71894ad2-eaa2-4a7d-81aa-8021f063c2cf",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 53,
+            "eventtype": 6,
+            "m_owner": "a560d660-6b09-4cc3-9f16-d575ae98b56b"
+        },
+        {
+            "id": "8b44e91a-1e25-46f7-8f13-9655b043dc36",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 56,
+            "eventtype": 6,
+            "m_owner": "a560d660-6b09-4cc3-9f16-d575ae98b56b"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -125,6 +145,34 @@
             "value": "0",
             "varName": "game_score",
             "varType": 1
+        },
+        {
+            "id": "12419a69-5196-411d-a6de-1f3cbbc4e06b",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "round_over",
+            "varType": 3
+        },
+        {
+            "id": "4507d402-6dee-410a-850f-690460e662dd",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "click_locked",
+            "varType": 3
         }
     ],
     "solid": false,

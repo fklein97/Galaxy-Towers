@@ -5,5 +5,5 @@
 		sprite_alpha = sprite_alpha - 0.015	
 	}
 	if(sprite_alpha <= 0 and fading = true){
-		instance_destroy(self)
+		instance_destroy(self,true)
 	}
