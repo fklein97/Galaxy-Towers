@@ -151,6 +151,14 @@
             }
         },
         {
+            "Key": "149e846c-dba8-4066-9016-58aaa5b851e3",
+            "Value": {
+                "id": "0457de94-12ff-4e59-8bbe-b42d66e23e0c",
+                "resourcePath": "scripts\\scr_save_score_dialog\\scr_save_score_dialog.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "15415167-01be-42c2-afbf-3173c4bdf394",
             "Value": {
                 "id": "081e0372-0e75-4b14-979e-0127da74b50c",
@@ -759,6 +767,14 @@
             }
         },
         {
+            "Key": "662088cb-cb14-4c6b-81c6-248b09ea4361",
+            "Value": {
+                "id": "b07799b9-aa42-424b-a629-7de7d711fcb9",
+                "resourcePath": "scripts\\show_save_score_dialog\\show_save_score_dialog.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "6c7c1bd2-5eed-4eba-89cc-b2420a39cacc",
             "Value": {
                 "id": "e4889d5f-712a-4946-82b7-09177039964d",
@@ -971,6 +987,14 @@
             "Value": {
                 "id": "070685a9-23a4-4f79-8011-19e6969e88db",
                 "resourcePath": "objects\\obj_diamonds_J\\obj_diamonds_J.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8d7b4e54-156b-4a7f-be8e-928b876651ce",
+            "Value": {
+                "id": "31e9ae8a-5da3-4d9f-a50c-9463af7896c8",
+                "resourcePath": "objects\\obj_save_score_dialog\\obj_save_score_dialog.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1204,6 +1228,14 @@
                 "id": "2a0226e1-3dfd-41a4-9777-bfcba9806f2c",
                 "resourcePath": "sprites\\spr_play_mask\\spr_play_mask.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b0dc6892-a922-47fd-a9f1-2e045cb27946",
+            "Value": {
+                "id": "958388d9-525a-4387-bbb7-7d339cf5fa7e",
+                "resourcePath": "objects\\obj_ok_save_score_button\\obj_ok_save_score_button.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1559,6 +1591,14 @@
             }
         },
         {
+            "Key": "e3c5ecb9-36d6-4c2b-9910-4c39c618841d",
+            "Value": {
+                "id": "c9a4ca4c-45e6-462a-ba86-4b51748101af",
+                "resourcePath": "views\\e3c5ecb9-36d6-4c2b-9910-4c39c618841d.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "e3e5df5b-46ff-4e9c-b97f-25cfac909fbb",
             "Value": {
                 "id": "efd7511c-f45b-4da7-9c9f-6361ad8af2df",
@@ -1790,9 +1830,11 @@
         "868c39d9-64c3-4f92-8fbb-54db3d9ed3f1",
         "13958dbd-60e3-4acd-a169-b289bf4d3bf1",
         "1b422628-ebb1-40ed-bbdf-98e7d1dbd9eb",
+        "662088cb-cb14-4c6b-81c6-248b09ea4361",
         "ad2ed112-5f69-4caf-84ee-8a5f257e3fcb",
         "418c0cf7-4f64-4a49-9cf9-2ad878a29e3d",
         "6007ea81-b307-4229-845f-f194d8c3d481",
+        "149e846c-dba8-4066-9016-58aaa5b851e3",
         "84d5f940-48fb-45f7-a2fb-6b18dca0ee3d"
     ],
     "tutorial": ""

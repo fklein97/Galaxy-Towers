@@ -1,1 +1,1 @@
-room_goto(rm_menu)
+show_save_score_dialog()

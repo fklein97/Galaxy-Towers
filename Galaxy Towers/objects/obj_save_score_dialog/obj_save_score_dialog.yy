@@ -1,48 +1,38 @@
 {
-    "id": "3c0729d8-ac19-47ed-bf17-ceec3fe8c75d",
+    "id": "8d7b4e54-156b-4a7f-be8e-928b876651ce",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_yes_no_dialog_parent",
+    "name": "obj_save_score_dialog",
     "eventList": [
         {
-            "id": "d9db89a9-fff1-4d97-a370-9244b5a1abc5",
+            "id": "d67b1058-7be4-4928-ae3e-fc8d5f65d0c0",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 8,
-            "m_owner": "3c0729d8-ac19-47ed-bf17-ceec3fe8c75d"
+            "m_owner": "8d7b4e54-156b-4a7f-be8e-928b876651ce"
         },
         {
-            "id": "085770c3-530e-41c9-bdfa-28cd876308c1",
+            "id": "f4ffafa4-f9dc-4dfa-bda8-27f04fa252c0",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "3c0729d8-ac19-47ed-bf17-ceec3fe8c75d"
+            "m_owner": "8d7b4e54-156b-4a7f-be8e-928b876651ce"
         },
         {
-            "id": "7e9d2a7f-eaa5-4097-9562-6b607d679102",
+            "id": "94eac69b-60ef-43e1-be7a-198de3e98bb8",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 3,
-            "m_owner": "3c0729d8-ac19-47ed-bf17-ceec3fe8c75d"
-        },
-        {
-            "id": "2ef03b17-c5c3-47eb-9f5f-39c44c539d2d",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 1,
-            "m_owner": "3c0729d8-ac19-47ed-bf17-ceec3fe8c75d"
+            "m_owner": "8d7b4e54-156b-4a7f-be8e-928b876651ce"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -63,7 +53,7 @@
     "physicsStartAwake": true,
     "properties": [
         {
-            "id": "ac645597-3e18-4c36-bffd-6438f69779ed",
+            "id": "c2533bd8-2203-4fd7-a4a4-129db3f270c6",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -77,7 +67,7 @@
             "varType": 2
         },
         {
-            "id": "ccb4ccd2-74dd-4135-a298-188fcc67d946",
+            "id": "81c41c6c-1b53-4203-8770-6eff6eecf3c0",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -87,11 +77,11 @@
             "rangeMin": 0,
             "resourceFilter": 1023,
             "value": "0",
-            "varName": "dialog_yes_button",
+            "varName": "dialog_button",
             "varType": 5
         },
         {
-            "id": "170e0171-28cf-4a15-87dc-a13ab24b4197",
+            "id": "b6a65bbf-dbfc-4832-be28-c9a87f658ba5",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -101,35 +91,7 @@
             "rangeMin": 0,
             "resourceFilter": 1023,
             "value": "0",
-            "varName": "dialog_yes_script",
-            "varType": 5
-        },
-        {
-            "id": "bc5808eb-e142-423b-b604-2bda6b80e8b0",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "0",
-            "varName": "dialog_no_button",
-            "varType": 5
-        },
-        {
-            "id": "98f54303-0ec5-4796-baa6-477f374a1e2b",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "0",
-            "varName": "dialog_no_script",
+            "varName": "dialog_script",
             "varType": 5
         }
     ],

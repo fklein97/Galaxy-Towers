@@ -24,7 +24,7 @@ if(open = true and clickable = true and handler.click_locked = false){
 		
 		update_cards_open()
 		
-		if(handler.combo = 4){
+		if(handler.combo = 4 and ds_list_size(obj_rest_cards.rest_cards) > 0){
 			draw_card_to_second()
 			obj_second_stack.stack_enabled = true	
 		}
