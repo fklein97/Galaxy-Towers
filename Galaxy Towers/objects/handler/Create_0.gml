@@ -4,5 +4,5 @@ for(var i = 1; i <= 10; i++;){
 	}
 }
 game_round = 0;
-start_round(10);
-game_round = 10;
+start_round(1);
+game_round = 1;

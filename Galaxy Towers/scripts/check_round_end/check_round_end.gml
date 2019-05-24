@@ -1,5 +1,5 @@
 if(handler.round_over = false or instance_exists(obj_card_parent)){
-	var global.move_possible = false
+	global.move_possible = false
 	if(instance_exists(obj_card_parent)){
 		if(ds_list_size(obj_rest_cards.rest_cards) = 0){
 			with obj_card_parent{
