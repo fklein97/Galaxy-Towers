@@ -22,4 +22,9 @@ obj_second_stack.stack_enabled = false
 obj_second_stack.card_object = 0
 handler.combo = 0
 
-show_ok_dialog("Round " + string(handler.game_round) + " ended. Starting Round " + string(handler.game_round + 1), scr_next_round_dialog)
+if(handler.game_round < 10){
+	show_ok_dialog("Round " + string(handler.game_round) + " ended. Starting Round " + string(handler.game_round + 1), scr_next_round_dialog)
+}
+else{
+	show_ok_dialog("Round " + string(handler.game_round) + " ended. Game ends now!", scr_game_ends_dialog)
+}

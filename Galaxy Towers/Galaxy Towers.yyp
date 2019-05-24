@@ -471,6 +471,14 @@
             }
         },
         {
+            "Key": "418c0cf7-4f64-4a49-9cf9-2ad878a29e3d",
+            "Value": {
+                "id": "c8a0ddcb-9f5e-43ef-967b-1fd9e11e82ae",
+                "resourcePath": "scripts\\scr_game_ends_dialog\\scr_game_ends_dialog.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "445966e2-b7d6-4ca5-bea7-e20df9ecdbd4",
             "Value": {
                 "id": "c73f1cd1-9264-4393-990f-f01e46f8f7f1",
@@ -1694,6 +1702,7 @@
         "868c39d9-64c3-4f92-8fbb-54db3d9ed3f1",
         "13958dbd-60e3-4acd-a169-b289bf4d3bf1",
         "ad2ed112-5f69-4caf-84ee-8a5f257e3fcb",
+        "418c0cf7-4f64-4a49-9cf9-2ad878a29e3d",
         "84d5f940-48fb-45f7-a2fb-6b18dca0ee3d"
     ],
     "tutorial": ""
