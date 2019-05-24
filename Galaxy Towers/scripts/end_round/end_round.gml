@@ -26,5 +26,5 @@ if(handler.game_round < 10){
 	show_ok_dialog("Round " + string(handler.game_round) + " ended. Starting Round " + string(handler.game_round + 1), scr_next_round_dialog)
 }
 else{
-	show_ok_dialog("Round " + string(handler.game_round) + " ended. Game ends now!", scr_game_ends_dialog)
+	show_yes_no_dialog("Game ended. Save Score?", scr_game_ends_yes_dialog, scr_game_ends_no_dialog)
 }
