@@ -343,6 +343,14 @@
             }
         },
         {
+            "Key": "2814d971-29ec-446a-a946-4ed6e6e1242b",
+            "Value": {
+                "id": "f9b15a88-ee29-44ea-95be-bea7c3fe1e4e",
+                "resourcePath": "objects\\obj_draw_coins\\obj_draw_coins.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "285dcff3-36c1-424f-8aeb-027e866d07e5",
             "Value": {
                 "id": "a0d90c69-1a7d-42be-b976-d9b853a74298",
@@ -1015,6 +1023,14 @@
             }
         },
         {
+            "Key": "886567af-f2fc-4d0f-bd8e-8973ff30db1d",
+            "Value": {
+                "id": "8df30713-6821-440e-8716-ca1ccc9d3cbb",
+                "resourcePath": "views\\886567af-f2fc-4d0f-bd8e-8973ff30db1d.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "8916a799-b8c9-4017-a043-302fce82018d",
             "Value": {
                 "id": "e2681ca9-a8a9-466c-bfdb-6f6a2192aa99",
@@ -1292,6 +1308,14 @@
                 "id": "4e6919d9-c627-4b00-b3c7-ec255c284c64",
                 "resourcePath": "scripts\\scr_next_round_dialog\\scr_next_round_dialog.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "ad527279-edb9-4fdd-8c1b-13617f58b40b",
+            "Value": {
+                "id": "ff37120d-6db6-4413-809c-fb434030cf83",
+                "resourcePath": "sprites\\spr_coin\\spr_coin.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

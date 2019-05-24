@@ -7,6 +7,7 @@ for(i = 1; i <= 10; i++;){
 }
 cursor_sprite = asset_get_index(ini_read_string("preferences","cursor", "spr_cursor_standart"))
 global.cardback_sprite = asset_get_index(ini_read_string("preferences","cardback", "spr_cardback_standart"))
+global.coins = ini_read_real("unlockables","coins", 0)
 
 
 ini_close()
