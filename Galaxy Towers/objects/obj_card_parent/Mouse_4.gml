@@ -28,6 +28,9 @@ if(open = true and clickable = true and handler.click_locked = false){
 			draw_card_to_second()
 			obj_second_stack.stack_enabled = true	
 		}
+		if(handler.combo >= 4){
+			global.coins += 3	
+		}
 		
 	}
 	else{

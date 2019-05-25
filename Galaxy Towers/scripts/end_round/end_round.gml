@@ -27,4 +27,7 @@ if(handler.game_round < 10){
 }
 else{
 	show_yes_no_dialog("Game ended. Save Score?", scr_game_ends_yes_dialog, scr_game_ends_no_dialog)
+	ini_open(working_directory + "save.ini")
+	ini_write_real_base64("unlockables", "coins" , global.coins)
+	ini_close()
 }

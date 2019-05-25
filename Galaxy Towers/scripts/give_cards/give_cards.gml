@@ -8,8 +8,8 @@ var base_x3 = 1360
 
 var base_y = 220
 
-var card_w = sprite_get_width(spr_cardback) + 8
-var card_h = sprite_get_height(spr_cardback) + 8
+var card_w = sprite_get_width(spr_cardback_standart) + 8
+var card_h = sprite_get_height(spr_cardback_standart) + 8
 
 //layer1
 create_random_card(base_x1,base_y,1,1)
