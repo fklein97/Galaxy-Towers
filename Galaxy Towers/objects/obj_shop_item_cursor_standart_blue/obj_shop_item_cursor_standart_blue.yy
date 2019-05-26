@@ -39,6 +39,14 @@
             "objectId": "4b917be6-ecca-4ca3-a4b3-7ee9b6b41f8d",
             "propertyId": "2e8ec8ff-513e-42c2-9428-08744a74b7af",
             "value": "\"cursor\""
+        },
+        {
+            "id": "d868585f-20c7-4b85-99cd-35a797f8647a",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "4b917be6-ecca-4ca3-a4b3-7ee9b6b41f8d",
+            "propertyId": "d84e88df-640a-4195-80a9-eb56d43dcc4b",
+            "value": "\"Standart Blue\""
         }
     ],
     "parentObjectId": "4b917be6-ecca-4ca3-a4b3-7ee9b6b41f8d",

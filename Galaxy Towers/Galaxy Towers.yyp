@@ -538,7 +538,7 @@
             "Key": "3442452b-75ef-4c33-b30a-5bafd6090b62",
             "Value": {
                 "id": "4d7ba856-bf3d-4589-9dda-fb16057b72f1",
-                "resourcePath": "sprites\\spr_menu_bg\\spr_menu_bg.yy",
+                "resourcePath": "sprites\\spr_background_standart\\spr_background_standart.yy",
                 "resourceType": "GMSprite"
             }
         },
