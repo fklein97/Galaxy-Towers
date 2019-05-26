@@ -1,3 +1,2 @@
-highscore_add(keyboard_string,handler.game_score)
-save_stuff()
+save_score(keyboard_string,handler.game_score)
 room_goto(rm_menu)

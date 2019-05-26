@@ -2,9 +2,9 @@
 ini_open(working_directory + "save.ini")
 
 //HIGHSCORES
-for(i = 1; i <= 10; i++;){
-	 highscore_add(ini_read_string_base64("highscore_"+string(i),"name","0"),ini_read_real_base64("highscore_"+string(i),"score","0"))
-}
+//for(i = 1; i <= 10; i++;){
+//	 highscore_add(ini_read_string_base64("highscore_"+string(i),"name","0"),ini_read_real_base64("highscore_"+string(i),"score","0"))
+//}
 
 //PREFERENCES
 cursor_sprite = asset_get_index(ini_read_string_base64("preferences","cursor", "spr_cursor_standart"))
