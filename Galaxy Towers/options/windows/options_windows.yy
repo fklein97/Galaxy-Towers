@@ -12,7 +12,7 @@
     "option_windows_display_cursor": false,
     "option_windows_display_name": "Galaxy Towers",
     "option_windows_enable_steam": false,
-    "option_windows_executable_name": "${project_name} - $(project_version)",
+    "option_windows_executable_name": "${project_name}",
     "option_windows_icon": "${base_options_dir}\\windows\\icons\\icon.ico",
     "option_windows_installer_finished": "${base_options_dir}\\windows\\installer\\finished.bmp",
     "option_windows_installer_header": "${base_options_dir}\\windows\\installer\\header.bmp",
