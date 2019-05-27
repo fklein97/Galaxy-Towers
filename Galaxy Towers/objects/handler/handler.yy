@@ -43,6 +43,26 @@
             "enumb": 56,
             "eventtype": 6,
             "m_owner": "a560d660-6b09-4cc3-9f16-d575ae98b56b"
+        },
+        {
+            "id": "e251e6b0-3b79-43ad-82ee-ae848ce55531",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 1,
+            "eventtype": 2,
+            "m_owner": "a560d660-6b09-4cc3-9f16-d575ae98b56b"
+        },
+        {
+            "id": "782048fa-7644-4b2d-8965-aebcf493fcdf",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 8,
+            "m_owner": "a560d660-6b09-4cc3-9f16-d575ae98b56b"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -173,6 +193,20 @@
             "value": "0",
             "varName": "click_locked",
             "varType": 3
+        },
+        {
+            "id": "793a4b5c-aae5-42c7-9ceb-8659ec4b0e62",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "10",
+            "varName": "max_rounds",
+            "varType": 1
         }
     ],
     "solid": false,

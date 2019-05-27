@@ -2,7 +2,7 @@
     "id": "40dbb1b1-39eb-4438-9f9d-3c02298121a5",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_highscore_list_timeless",
+    "name": "obj_highscore_list",
     "eventList": [
         {
             "id": "ab956e41-c56a-4227-95c3-7cd7f9d31bc0",

@@ -36,3 +36,6 @@ else if(r = 9){
 else if(r = 10){
 	handler.time = 30;
 }
+with handler{
+	alarm_set(1,120)	
+}

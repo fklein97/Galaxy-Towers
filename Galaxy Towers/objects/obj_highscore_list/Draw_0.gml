@@ -4,7 +4,7 @@ draw_set_font(fnt_game)
 draw_set_valign(fa_middle)
 
 draw_set_halign(fa_center)
-draw_text(x,y-80,"Highscores")
+draw_text(x,y-80,"Highscores - " + global.gamemode)
 
 draw_set_halign(fa_left)
 

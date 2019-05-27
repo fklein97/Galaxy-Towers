@@ -33,6 +33,16 @@
             "enumb": 4,
             "eventtype": 6,
             "m_owner": "cdb2158a-bb6a-4963-901b-1c491e658dd1"
+        },
+        {
+            "id": "a4a0d771-ce0e-4c7d-8e97-dc102f7fc896",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 8,
+            "m_owner": "cdb2158a-bb6a-4963-901b-1c491e658dd1"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -65,6 +75,34 @@
             "value": "0",
             "varName": "button_script",
             "varType": 5
+        },
+        {
+            "id": "6eb8b0b5-36af-4719-920b-4a76f2d96bb9",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "\"\"",
+            "varName": "tooltip_text",
+            "varType": 2
+        },
+        {
+            "id": "d6be26b5-8a9b-4961-b880-90b1e1ea497f",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "show_tooltip",
+            "varType": 3
         }
     ],
     "solid": false,

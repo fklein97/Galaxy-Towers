@@ -1,1 +1,1 @@
-room_goto(rm_highscores)
+room_goto(rm_highscore_gamemode)
