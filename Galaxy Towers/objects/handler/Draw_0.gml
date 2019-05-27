@@ -1,5 +1,5 @@
 if(global.gamemode != "timeless"){
-	draw_sprite(spr_clock,0,880,900)
+	draw_sprite(spr_clock,-1,880,900)
 	
 	draw_set_color(c_white)
 	draw_set_halign(fa_center)

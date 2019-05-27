@@ -9,7 +9,8 @@
         "113bb30b-5a2c-4449-962d-aa03d6d15b32",
         "5880bf09-d50f-4e5e-99c1-bf3712ff1681",
         "cc16c560-4bd9-4c75-8e3e-1f7141dbd7b7",
-        "ea3c2c35-24b1-4ea2-a43c-c227e5b2eaae"
+        "ea3c2c35-24b1-4ea2-a43c-c227e5b2eaae",
+        "e650381c-2126-4efe-a1a9-1a14585f70d9"
     ],
     "filterType": "GMSprite",
     "folderName": "cardbacks",

@@ -2303,6 +2303,14 @@
             }
         },
         {
+            "Key": "e650381c-2126-4efe-a1a9-1a14585f70d9",
+            "Value": {
+                "id": "3c1f80ef-dd40-404d-829e-5a42bd3dabbd",
+                "resourcePath": "sprites\\spr_cardback_bricks\\spr_cardback_bricks.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e8371af8-421f-4b01-a566-c3195fe28555",
             "Value": {
                 "id": "12bc1f80-dd96-4a69-8fab-f3c25df12fa4",
@@ -2492,6 +2500,14 @@
                 "id": "932450e4-16b8-4557-8607-d6cfaa5a37ae",
                 "resourcePath": "views\\fc6ef203-a03c-486c-859f-043f14e1770d.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "fda0c95e-ff28-4090-8ba4-f6b6316a7d33",
+            "Value": {
+                "id": "f1364a69-c23c-4427-8c6f-9168d9de9c52",
+                "resourcePath": "objects\\obj_shop_item_cardback_bricks\\obj_shop_item_cardback_bricks.yy",
+                "resourceType": "GMObject"
             }
         },
         {
