@@ -1,3 +1,5 @@
+discord_update_presence("Gamemode: " + global.gamemode, "In a Game (v." + GM_version + ")", "game_icon", "g")
+
 image_speed = 0.05
 
 for(var i = 1; i <= 10; i++;){

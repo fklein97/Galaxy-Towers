@@ -751,6 +751,14 @@
             }
         },
         {
+            "Key": "451aa5d9-5cf4-4479-8897-a14e48d8ff1e",
+            "Value": {
+                "id": "f3d9ef05-f5c8-40a8-a90b-2c3c24fda394",
+                "resourcePath": "scripts\\discord_init_dll\\discord_init_dll.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "45324b85-c6fa-479d-83e0-63d2c95bf37a",
             "Value": {
                 "id": "71c49275-6344-4a2d-b637-04c8b9b94fa3",
@@ -924,6 +932,14 @@
                 "id": "7cde80ad-c3c9-4792-8814-99d236efb629",
                 "resourcePath": "objects\\obj_diamonds_4\\obj_diamonds_4.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "56693af1-c606-4066-ac9c-665dcd5be2b8",
+            "Value": {
+                "id": "578e9cb0-637f-4fbe-a441-a19e0b2c38ea",
+                "resourcePath": "datafiles_yy\\discord_rich_presence.dll.yy",
+                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -1143,11 +1159,27 @@
             }
         },
         {
+            "Key": "73ab5a18-e389-4882-94bd-d63ff669885b",
+            "Value": {
+                "id": "c706a004-9dc1-4e60-a668-59b7c3fe1bc4",
+                "resourcePath": "scripts\\discord_free_app\\discord_free_app.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "75bb3500-77bf-4574-a36e-3e3c20cd9fea",
             "Value": {
                 "id": "ae718f04-7c44-4486-a07f-36594e5c38a5",
                 "resourcePath": "sprites\\spr_clubs_A\\spr_clubs_A.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7675f153-a8ce-4232-ae85-e18f9193dd39",
+            "Value": {
+                "id": "d1b47c68-8c79-4baf-b25b-4d53f653329c",
+                "resourcePath": "scripts\\discord_init_app\\discord_init_app.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -1388,6 +1420,14 @@
                 "id": "18f65abc-6cdd-4c71-83dd-e802fc1821d2",
                 "resourcePath": "sprites\\spr_clubs_K\\spr_clubs_K.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "90219dc8-3758-48d5-8854-7188a37731df",
+            "Value": {
+                "id": "5d9f8e13-b652-40d0-b489-94271100c1ac",
+                "resourcePath": "views\\90219dc8-3758-48d5-8854-7188a37731df.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -1639,6 +1679,14 @@
             }
         },
         {
+            "Key": "a790e309-620e-4e3d-9855-f8adb5c9cf18",
+            "Value": {
+                "id": "23499a2a-fd47-4f70-9907-6a396c8a75f3",
+                "resourcePath": "scripts\\discord_update_presence\\discord_update_presence.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "a8357155-e27e-4a66-a716-11ebd92fd747",
             "Value": {
                 "id": "76e34628-9840-400f-af3e-0e0b4d6608d1",
@@ -1740,6 +1788,14 @@
                 "id": "958388d9-525a-4387-bbb7-7d339cf5fa7e",
                 "resourcePath": "objects\\obj_ok_save_score_button\\obj_ok_save_score_button.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b34cfb7e-081e-4e4b-8f64-0853c46f51ef",
+            "Value": {
+                "id": "b510989f-8784-4f49-bfb2-d9dc6fe4e059",
+                "resourcePath": "datafiles_yy\\discord-rpc.dll.yy",
+                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -2247,6 +2303,14 @@
             }
         },
         {
+            "Key": "e4b5a1b4-085f-4405-b488-5e0a394b09e2",
+            "Value": {
+                "id": "e7bdede2-1ded-494e-9a33-41ece475a1fb",
+                "resourcePath": "objects\\obj_shop_item_cursor_sword_blue\\obj_shop_item_cursor_sword_blue.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "e4efacfd-17a5-44b4-b9ff-21f2fb591c85",
             "Value": {
                 "id": "018f74bc-04c8-4976-b059-655cb82f9909",
@@ -2327,6 +2391,14 @@
             }
         },
         {
+            "Key": "e9e3db36-f1ed-46b3-ad20-af5534c29f0d",
+            "Value": {
+                "id": "75764b8f-6043-43f8-839c-98ada2c17e9c",
+                "resourcePath": "sprites\\spr_game_icon\\spr_game_icon.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ea3c2c35-24b1-4ea2-a43c-c227e5b2eaae",
             "Value": {
                 "id": "46a23f49-5c70-4675-ab6f-a9ece263bc3f",
@@ -2359,6 +2431,14 @@
             }
         },
         {
+            "Key": "ee88487a-e5fc-49ec-b16c-1b7261862391",
+            "Value": {
+                "id": "9afcb3e4-955a-41f5-9680-2fd682ee36db",
+                "resourcePath": "scripts\\discord_free_dll\\discord_free_dll.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "ee9264e0-3d28-4d78-8ec3-430c9724e59a",
             "Value": {
                 "id": "f2efba29-a43d-45a0-bd4a-6a5e9c8f819f",
@@ -2372,6 +2452,14 @@
                 "id": "abb54add-763e-4ee9-bd00-c4ece4733e78",
                 "resourcePath": "objects\\obj_score_change_text\\obj_score_change_text.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "efa1625b-feda-47cc-b99c-c14040e3bfd7",
+            "Value": {
+                "id": "e283aa3d-4746-42de-be01-d9ee9dcd2a3c",
+                "resourcePath": "sprites\\spr_cursor_sword_blue\\spr_cursor_sword_blue.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -2565,7 +2653,12 @@
         "c4c8b546-f3cf-41d8-8eb6-7b516ce45e32",
         "2113dba6-1184-4cfb-a8ed-a5a1fc838351",
         "1f645fae-bbd7-4147-9fa6-51f669849049",
-        "acf3ecc8-5aee-45fc-abcc-b81ad748f3b5"
+        "acf3ecc8-5aee-45fc-abcc-b81ad748f3b5",
+        "451aa5d9-5cf4-4479-8897-a14e48d8ff1e",
+        "7675f153-a8ce-4232-ae85-e18f9193dd39",
+        "a790e309-620e-4e3d-9855-f8adb5c9cf18",
+        "73ab5a18-e389-4882-94bd-d63ff669885b",
+        "ee88487a-e5fc-49ec-b16c-1b7261862391"
     ],
     "tutorial": ""
 }
