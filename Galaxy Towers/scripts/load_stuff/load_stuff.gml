@@ -14,4 +14,7 @@ global.cardback_sprite = asset_get_index(ini_read_string_base64("preferences","c
 global.coins = ini_read_real_base64("unlockables","coins", 0)
 
 
+global.name = ""
+
+
 ini_close()
