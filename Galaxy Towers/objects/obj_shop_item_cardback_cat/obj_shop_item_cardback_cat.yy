@@ -1,31 +1,31 @@
 {
-    "id": "fda0c95e-ff28-4090-8ba4-f6b6316a7d33",
+    "id": "3c990a54-e3a4-4a55-bc62-f1b75c9f8167",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_shop_item_cardback_bricks",
+    "name": "obj_shop_item_cardback_cat",
     "eventList": [
         
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": [
         {
-            "id": "43864da4-034d-489c-a0b9-4c12e51f5fec",
+            "id": "6e974ae3-cc84-4d53-8e61-0f49dcaa3fd1",
             "modelName": "GMOverriddenProperty",
             "mvc": "1.0",
             "objectId": "4b917be6-ecca-4ca3-a4b3-7ee9b6b41f8d",
             "propertyId": "fd62ec3c-ff12-4b29-b7a8-4cb5bc70e984",
-            "value": "spr_cardback_bricks"
+            "value": "spr_cardback_cat"
         },
         {
-            "id": "f9420009-1658-4b14-a56e-3c540c6713a4",
+            "id": "e374f4a7-f9e0-48b1-911d-a53b90a5064d",
             "modelName": "GMOverriddenProperty",
             "mvc": "1.0",
             "objectId": "4b917be6-ecca-4ca3-a4b3-7ee9b6b41f8d",
             "propertyId": "e2185fba-7ec7-4c6f-8724-1b794ddee76d",
-            "value": "cardback_bricks"
+            "value": "cardback_cat"
         },
         {
-            "id": "0c1bcea0-50b8-458d-bc3d-86bd92fbc97c",
+            "id": "c8145568-2eeb-41e5-a0ab-1942f474d031",
             "modelName": "GMOverriddenProperty",
             "mvc": "1.0",
             "objectId": "4b917be6-ecca-4ca3-a4b3-7ee9b6b41f8d",
@@ -33,7 +33,7 @@
             "value": "500"
         },
         {
-            "id": "c2ded036-5188-4247-89ee-6472b3b354b8",
+            "id": "b4a6cd82-049a-4e60-9672-ad93ad610271",
             "modelName": "GMOverriddenProperty",
             "mvc": "1.0",
             "objectId": "4b917be6-ecca-4ca3-a4b3-7ee9b6b41f8d",
@@ -41,12 +41,12 @@
             "value": "\"cardback\""
         },
         {
-            "id": "4a4488e3-869d-4788-8a8e-419e4f50f6bd",
+            "id": "471ab48d-94e3-41b6-a7d7-d9447ecb0642",
             "modelName": "GMOverriddenProperty",
             "mvc": "1.0",
             "objectId": "4b917be6-ecca-4ca3-a4b3-7ee9b6b41f8d",
             "propertyId": "d84e88df-640a-4195-80a9-eb56d43dcc4b",
-            "value": "\"Bricks\""
+            "value": "\"Cat\""
         }
     ],
     "parentObjectId": "4b917be6-ecca-4ca3-a4b3-7ee9b6b41f8d",

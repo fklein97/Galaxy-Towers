@@ -647,6 +647,14 @@
             }
         },
         {
+            "Key": "3c990a54-e3a4-4a55-bc62-f1b75c9f8167",
+            "Value": {
+                "id": "4ed5fba8-f0ba-4be0-a89c-9bafb5246f90",
+                "resourcePath": "objects\\obj_shop_item_cardback_cat\\obj_shop_item_cardback_cat.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3d0a34dc-b0b3-482f-81fb-100a1dea424d",
             "Value": {
                 "id": "94df84e7-5163-4d7c-9c41-57a1cf88284b",
@@ -1268,6 +1276,14 @@
                 "id": "77ce8865-af4f-4648-a3bb-a9be639419c7",
                 "resourcePath": "scripts\\scr_play_timeless_button\\scr_play_timeless_button.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "79630dbc-2418-4220-ac4f-69a1f11a4cd5",
+            "Value": {
+                "id": "c4b0a40b-5604-40eb-8694-33b8f2ba1514",
+                "resourcePath": "sprites\\spr_cardback_cat\\spr_cardback_cat.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
