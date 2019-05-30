@@ -12,7 +12,8 @@ if text == "Ready"{
 	draw_text_highscore(x, y, "", "Name", "Score", string(text2), player_name, c_green);
 }
 else{
-	draw_text(x, y, text);
+	draw_set_halign(fa_center)
+	draw_text(x, y+100, text);
 }
 
 draw_set_halign(fa_center)

@@ -11,6 +11,7 @@ if text2 == ""
 		get_scores_singleround(player_name,10);		
 	}
 	
-    text = "Please check your internet connection...";
+    text = "Please wait for the highscores to load...";
     alarm[1] = room_speed;
+	start_loading = true
 }
