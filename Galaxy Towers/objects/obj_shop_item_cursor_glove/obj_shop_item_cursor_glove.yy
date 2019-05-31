@@ -1,0 +1,70 @@
+{
+    "id": "f6b8c5c6-4cb8-4040-b37d-6809520881ef",
+    "modelName": "GMObject",
+    "mvc": "1.0",
+    "name": "obj_shop_item_cursor_glove",
+    "eventList": [
+        
+    ],
+    "maskSpriteId": "00000000-0000-0000-0000-000000000000",
+    "overriddenProperties": [
+        {
+            "id": "ab6067b5-26e6-4799-9001-97802092bc04",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "4b917be6-ecca-4ca3-a4b3-7ee9b6b41f8d",
+            "propertyId": "fd62ec3c-ff12-4b29-b7a8-4cb5bc70e984",
+            "value": "spr_cursor_glove"
+        },
+        {
+            "id": "e0650e45-8a8a-466f-8f44-035091bdcd83",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "4b917be6-ecca-4ca3-a4b3-7ee9b6b41f8d",
+            "propertyId": "e2185fba-7ec7-4c6f-8724-1b794ddee76d",
+            "value": "cursor_glove"
+        },
+        {
+            "id": "c79993a1-3b0b-4d34-9749-5a6c7e0b5229",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "4b917be6-ecca-4ca3-a4b3-7ee9b6b41f8d",
+            "propertyId": "8d22ba55-d31e-46f6-aa31-e578814aae45",
+            "value": "500"
+        },
+        {
+            "id": "310c3809-2037-4f29-864a-6bd12833fcfd",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "4b917be6-ecca-4ca3-a4b3-7ee9b6b41f8d",
+            "propertyId": "2e8ec8ff-513e-42c2-9428-08744a74b7af",
+            "value": "\"cursor\""
+        },
+        {
+            "id": "34bc245c-a455-41a3-9c42-15a368f004a0",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "4b917be6-ecca-4ca3-a4b3-7ee9b6b41f8d",
+            "propertyId": "d84e88df-640a-4195-80a9-eb56d43dcc4b",
+            "value": "\"Glove\""
+        }
+    ],
+    "parentObjectId": "4b917be6-ecca-4ca3-a4b3-7ee9b6b41f8d",
+    "persistent": false,
+    "physicsAngularDamping": 0.1,
+    "physicsDensity": 0.5,
+    "physicsFriction": 0.2,
+    "physicsGroup": 0,
+    "physicsKinematic": false,
+    "physicsLinearDamping": 0.1,
+    "physicsObject": false,
+    "physicsRestitution": 0.1,
+    "physicsSensor": false,
+    "physicsShape": 1,
+    "physicsShapePoints": null,
+    "physicsStartAwake": true,
+    "properties": null,
+    "solid": false,
+    "spriteId": "a2c187f0-fd72-4a2a-afed-93c059e1797d",
+    "visible": true
+}
