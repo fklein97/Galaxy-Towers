@@ -3,3 +3,8 @@ if(vspeed != 0){
 		vspeed = 0	
 	}
 }
+
+if(string_length(keyboard_string) > 15){
+	too_much = string_length(keyboard_string) - 15
+	string_delete(keyboard_string,16, too_much)	
+}
