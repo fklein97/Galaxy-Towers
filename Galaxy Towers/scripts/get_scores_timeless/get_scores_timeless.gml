@@ -8,6 +8,6 @@
 // Argument0: name of the player
 // Argument1: the number of scores you want to display (generally 10 is fine)
 
-var name = url_encode(base64_encode(string(argument0)));
+var name = url_encode(string(argument0));
 var args = "name="+name+"&no_lines="+string(argument1)+"&hash=galaxy123towers";
 get_highscores = http_post_string("http://ftp.galaxytowers.altervista.org/TimelessHighscores/display.php", args); 

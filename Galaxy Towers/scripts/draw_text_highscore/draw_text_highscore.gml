@@ -46,11 +46,6 @@ for(var i=0; i<count+1; i+=1)
     txt3b[i] = str4[1];
     txt3c[i] = str4[2];
     
-    // Decode the name so we can use it (but do not decode the header containing "name" since it's not decoded!)
-    if i != 0
-    {
-        txt3b[i] = base64_decode(txt3b[i]);
-    }
     
     // Assure that if a player has a # in his name, then escape
     txt3b[i] = string_replace_all(txt3b[i],"#","\#");
@@ -76,7 +71,7 @@ for(var i=0; i<count+1; i+=1)
     
     // Draw the numbers
     draw_set_halign(fa_right);
-    draw_text(xx+max_la-700,yy+height,txt3a[i]);
+    draw_text(xx-700,yy+height,txt3a[i]);
     
     // Assure that if a player has a # in his name, then escape (I know I'm doing this twice
     // but that's needed for the string_width in the previous block to work properly
@@ -84,9 +79,9 @@ for(var i=0; i<count+1; i+=1)
     
     // Draw the name + score
     draw_set_halign(fa_left);
-    draw_text(xx+max_la-400,yy+height,txt3b[i]);
+    draw_text(xx-400,yy+height,txt3b[i]);
 	draw_set_halign(fa_right);
-    draw_text(xx+max_la+500+max_lb+10,yy+height,txt3c[i]);
+    draw_text(xx+700+10,yy+height,txt3c[i]);
     
     height += string_height(str3[i]);
 } 
