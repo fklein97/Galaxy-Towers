@@ -9,7 +9,7 @@ draw_text(x,y-80,"Online Highscores - " + global.gamemode)
 draw_set_halign(fa_left)
 
 if text == "Ready"{
-	draw_text_highscore(x, y, "", "Name", "Score", string(text2), player_name, c_green);
+	draw_text_highscore(x, y, "", "Name", "Score", string(text2), player_name, rgb_to_bgr($FFF568));
 }
 else{
 	draw_set_halign(fa_center)

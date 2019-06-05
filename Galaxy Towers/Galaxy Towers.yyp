@@ -1295,6 +1295,14 @@
             }
         },
         {
+            "Key": "7bb54dd1-2d9f-479c-b798-640c22562733",
+            "Value": {
+                "id": "ad619957-51a7-4e3a-854d-c6a79841122a",
+                "resourcePath": "scripts\\rgb_to_bgr\\rgb_to_bgr.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "7cb0c59f-7015-4c66-8461-08b8fcf7b328",
             "Value": {
                 "id": "abdeed6e-f0f3-437e-8efd-0c42b0062b54",
@@ -1339,6 +1347,14 @@
             "Value": {
                 "id": "a88d6b5a-caf5-4107-be11-37988d7eb0a9",
                 "resourcePath": "views\\7dfa4cd1-7118-4a70-ab5c-6d33f44d2627.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "7ee2c508-fcda-4294-a101-5b9d218c998d",
+            "Value": {
+                "id": "9b4733fc-635d-4972-b439-3ded6c6835eb",
+                "resourcePath": "views\\7ee2c508-fcda-4294-a101-5b9d218c998d.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -1587,6 +1603,14 @@
             "Value": {
                 "id": "8c0727f1-37a5-40dc-8eb7-808bb14ad70e",
                 "resourcePath": "objects\\obj_hearts_K\\obj_hearts_K.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "96d115d4-fd0e-49a4-8715-c9149d0730cf",
+            "Value": {
+                "id": "c419c6de-3043-4825-ae8c-527634a2809c",
+                "resourcePath": "objects\\obj_coins_change_text\\obj_coins_change_text.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -2819,7 +2843,8 @@
         "9bec49e9-f28a-4778-9ef9-29460953e21e",
         "25f28b15-27d4-4e87-ae30-309a67cf27ec",
         "42da7b4a-1d2e-4681-bf19-a83bbf612bc9",
-        "9a9dfe5d-1a82-4243-acef-48490a5ed8de"
+        "9a9dfe5d-1a82-4243-acef-48490a5ed8de",
+        "7bb54dd1-2d9f-479c-b798-640c22562733"
     ],
     "tutorial": ""
 }

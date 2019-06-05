@@ -245,6 +245,20 @@
             "value": "0",
             "varName": "fading",
             "varType": 3
+        },
+        {
+            "id": "4f285b39-bb3b-4ada-9a07-f4e6dddd793e",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "2",
+            "varName": "coin_change",
+            "varType": 1
         }
     ],
     "solid": false,

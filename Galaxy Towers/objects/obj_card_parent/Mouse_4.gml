@@ -24,12 +24,22 @@ if(open = true and clickable = true and handler.click_locked = false){
 		
 		update_cards_open()
 		
-		if(handler.combo = 4 and ds_list_size(obj_rest_cards.rest_cards) > 0){
+		if(handler.combo = 3 and ds_list_size(obj_rest_cards.rest_cards) > 0){
 			draw_card_to_second()
 			obj_second_stack.stack_enabled = true	
 		}
-		if(handler.combo >= 4){
-			global.coins += 3	
+		
+		random_number = 0
+		if(handler.combo >= 3){
+			random_number = irandom(1)
+		}
+		else{
+			random_number = irandom(9)	
+		}
+		if(random_number = 0){
+			global.coins += coin_change	
+			coins_change_text = instance_create_depth(x,y-50,depth-1,obj_coins_change_text)
+			coins_change_text.change_value = coin_change
 		}
 		
 	}
@@ -40,6 +50,7 @@ if(open = true and clickable = true and handler.click_locked = false){
 	handler.game_score = handler.game_score + score_change
 	score_change_text = instance_create_depth(x,y-100,depth-1,obj_score_change_text)
 	score_change_text.change_value = score_change
+
 	
 	checked = 0
 	check_round_end()
