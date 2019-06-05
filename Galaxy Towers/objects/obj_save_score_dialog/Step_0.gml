@@ -4,7 +4,9 @@ if(vspeed != 0){
 	}
 }
 
-if(string_length(keyboard_string) > 15){
-	too_much = string_length(keyboard_string) - 15
-	string_delete(keyboard_string,16, too_much)	
+stringname = keyboard_string
+
+if(string_length(stringname) > 15){
+	too_much = string_length(stringname) - 15
+	keyboard_string = string_delete(stringname,15, too_much)
 }
