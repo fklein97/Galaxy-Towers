@@ -33,6 +33,36 @@
             "enumb": 0,
             "eventtype": 2,
             "m_owner": "15f684ad-699a-4d3d-967c-68f849997cbf"
+        },
+        {
+            "id": "16471839-0a1e-4042-8340-ba41d5bdf49e",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 1,
+            "eventtype": 2,
+            "m_owner": "15f684ad-699a-4d3d-967c-68f849997cbf"
+        },
+        {
+            "id": "233da8c3-e483-42d8-94e9-393d1cbaddb9",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "15f684ad-699a-4d3d-967c-68f849997cbf"
+        },
+        {
+            "id": "7f11d3c4-9c09-4b69-ba18-02b41bbc315e",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "15f684ad-699a-4d3d-967c-68f849997cbf"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -65,6 +95,34 @@
             "value": "0",
             "varName": "rest_cards",
             "varType": 6
+        },
+        {
+            "id": "da29cb8e-5bb4-43c3-a04d-5ef768e6b56c",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "clicked",
+            "varType": 3
+        },
+        {
+            "id": "6f270054-b84d-4000-98d9-c49aa871a219",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "animation_index",
+            "varType": 1
         }
     ],
     "solid": false,

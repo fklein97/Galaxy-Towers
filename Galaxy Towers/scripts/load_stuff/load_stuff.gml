@@ -9,12 +9,12 @@ ini_open(working_directory + "save.ini")
 //PREFERENCES
 cursor_sprite = asset_get_index(ini_read_string_base64("preferences","cursor", "spr_cursor_standart"))
 global.cardback_sprite = asset_get_index(ini_read_string_base64("preferences","cardback", "spr_cardback_standart"))
+global.name = ini_read_string_base64("preferences","lastname", "")
 
 //UNLOCKS
 global.coins = ini_read_real_base64("unlockables","coins", 0)
 
 
-global.name = ""
 
 
 ini_close()

@@ -2391,6 +2391,14 @@
             }
         },
         {
+            "Key": "df719202-3779-4a7e-8f75-d82c5b17fc85",
+            "Value": {
+                "id": "e0964ebd-5b77-4b2f-8aea-c68eafc4dc40",
+                "resourcePath": "sprites\\spr_card_restcards_animation\\spr_card_restcards_animation.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "df9ffe0c-5a92-41b4-bd02-f646fd186b6f",
             "Value": {
                 "id": "82977f09-e68a-43be-9fde-b9029f951389",

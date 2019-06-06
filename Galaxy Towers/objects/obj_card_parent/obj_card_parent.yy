@@ -55,16 +55,6 @@
             "m_owner": "1681f02d-ef70-4db9-bfc0-fae70d7f1de7"
         },
         {
-            "id": "02ec0b7e-7d71-4d50-afdd-29c14025a381",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 1,
-            "m_owner": "1681f02d-ef70-4db9-bfc0-fae70d7f1de7"
-        },
-        {
             "id": "221b81d5-adf0-4a5b-b549-6c34cc7ff9f4",
             "modelName": "GMEvent",
             "mvc": "1.0",
@@ -258,6 +248,20 @@
             "resourceFilter": 1023,
             "value": "2",
             "varName": "coin_change",
+            "varType": 1
+        },
+        {
+            "id": "c71f09fb-cd70-4716-865a-dca6d9700fbf",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "checked",
             "varType": 1
         }
     ],
