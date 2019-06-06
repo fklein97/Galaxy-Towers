@@ -1039,6 +1039,14 @@
             }
         },
         {
+            "Key": "5a8c0552-e8c5-4c2e-9bb2-cf618853a1c5",
+            "Value": {
+                "id": "f583538a-2781-41bc-8a97-cbdd91dc6560",
+                "resourcePath": "objects\\hotkey_listener\\hotkey_listener.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5bcc8a78-58f8-42c9-ad3f-5d88e5fb981f",
             "Value": {
                 "id": "0883ede2-f195-4c7c-8fd4-b783e4c08ed7",
@@ -2404,6 +2412,14 @@
                 "id": "c516fc41-0ec1-4113-a446-ed3381592a46",
                 "resourcePath": "scripts\\draw_card\\draw_card.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "e050807e-ae4b-4003-ba91-45126f39c463",
+            "Value": {
+                "id": "9c8c1878-15cf-4422-960c-6d03e37d6a10",
+                "resourcePath": "sprites\\edit_sprite\\edit_sprite.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
