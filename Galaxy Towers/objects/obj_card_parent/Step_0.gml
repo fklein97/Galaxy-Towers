@@ -10,13 +10,17 @@
 	
 	if(fading = true){
 		if(distance_to_point(obj_main_stack.x,obj_main_stack.y) < 5 and checked = 1){
-			obj_main_stack.card_object = self.object_index	
-			check_round_end()
+			obj_main_stack.card_object = self.object_index
+			if(handler.round_over = false){
+				check_round_end()
+			}
 			instance_destroy(self)
 		}
 		else if(distance_to_point(obj_second_stack.x,obj_second_stack.y) < 5 and checked = 2){
 			obj_second_stack.card_object = self.object_index	
-			check_round_end()
+			if(handler.round_over = false){
+				check_round_end()
+			}
 			instance_destroy(self)
 		}
 	}
