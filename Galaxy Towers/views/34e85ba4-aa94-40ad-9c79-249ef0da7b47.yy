@@ -11,7 +11,9 @@
         "409f786d-efc4-4e87-95b2-224f7885e469",
         "bbdbc5b5-445a-4cf7-8d71-f0ddbb4be2f4",
         "fda0c95e-ff28-4090-8ba4-f6b6316a7d33",
-        "3c990a54-e3a4-4a55-bc62-f1b75c9f8167"
+        "3c990a54-e3a4-4a55-bc62-f1b75c9f8167",
+        "be8d212a-a61b-4914-b399-f68b9c0b5f94",
+        "bdd22edd-4778-4dd0-8531-bb06d42b579a"
     ],
     "filterType": "GMObject",
     "folderName": "Cardbacks_Shop_Items",

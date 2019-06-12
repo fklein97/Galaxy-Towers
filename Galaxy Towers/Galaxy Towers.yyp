@@ -743,6 +743,14 @@
             }
         },
         {
+            "Key": "43738da1-d608-48d5-a9b3-c6fad3ea3fa4",
+            "Value": {
+                "id": "f9742f18-cdb3-4923-904c-a95d4da7f039",
+                "resourcePath": "sprites\\spr_cardback_bomb\\spr_cardback_bomb.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4385ad25-7c67-4ac5-af89-81f2c98245b5",
             "Value": {
                 "id": "0ac42199-a575-4231-abca-92d679957845",
@@ -1132,6 +1140,14 @@
                 "id": "d1872157-5f91-481c-974a-f6556983d1f1",
                 "resourcePath": "objects\\obj_button_shop\\obj_button_shop.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "67ad09ad-147f-4528-9cc3-43d0917fd8ab",
+            "Value": {
+                "id": "bd377171-9cd3-4fc2-b398-370feae78148",
+                "resourcePath": "sprites\\spr_cardback_cat_red\\spr_cardback_cat_red.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -2023,6 +2039,14 @@
             }
         },
         {
+            "Key": "bdd22edd-4778-4dd0-8531-bb06d42b579a",
+            "Value": {
+                "id": "131c6ebb-dc36-4ab9-8e8c-1ed00e9c9e20",
+                "resourcePath": "objects\\obj_shop_item_cardback_bomb\\obj_shop_item_cardback_bomb.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "be00c0a3-8f05-4e7b-8197-f100413989cb",
             "Value": {
                 "id": "d7153dc5-2968-43fd-a8ab-a7c30f778dab",
@@ -2035,6 +2059,14 @@
             "Value": {
                 "id": "872171b6-a54a-4fbe-a3a5-40921342f971",
                 "resourcePath": "objects\\obj_hearts_7\\obj_hearts_7.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "be8d212a-a61b-4914-b399-f68b9c0b5f94",
+            "Value": {
+                "id": "82893726-2d5c-4c15-b273-380b58bdb86d",
+                "resourcePath": "objects\\obj_shop_item_cardback_cat_red\\obj_shop_item_cardback_cat_red.yy",
                 "resourceType": "GMObject"
             }
         },
