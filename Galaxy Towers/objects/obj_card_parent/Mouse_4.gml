@@ -52,7 +52,7 @@ if(open = true and clickable = true and handler.click_locked = false){
 	}
 	
 	handler.game_score = handler.game_score + score_change
-	score_change_text = instance_create_depth(x,y-100,depth-1,obj_score_change_text)
+	score_change_text = instance_create_depth(mouse_x,mouse_y-20,depth-1,obj_score_change_text)
 	score_change_text.change_value = score_change
 
 	check_round_end()
