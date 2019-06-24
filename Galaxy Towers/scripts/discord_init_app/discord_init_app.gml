@@ -16,4 +16,6 @@ Discord Rich Presence for Game Maker made by Aouab
 
 */
 
+if(os_type = os_windows){
 return external_call(global.__d_init,argument0)
+}

@@ -11,14 +11,20 @@ if(open = true and clickable = true and handler.click_locked = false){
 		clickable = false
 		handler.card_array[position,card_layer] = 0
 		
+		if(os_type = os_android){
+			card_speed = 70	
+		}
+		else{
+			card_speed = 35	
+		}
 		if(checked = 1){
 			//obj_main_stack.card_object = self.object_index
-			move_towards_point(obj_main_stack.x,obj_main_stack.y,35)
+			move_towards_point(obj_main_stack.x,obj_main_stack.y,card_speed)
 			depth = obj_main_stack.depth - 1
 		}
 		else if(checked = 2){
 			//obj_second_stack.card_object = self.object_index
-			move_towards_point(obj_second_stack.x,obj_second_stack.y,35)
+			move_towards_point(obj_second_stack.x,obj_second_stack.y,card_speed)
 			depth = obj_main_stack.depth - 1
 		}
 		
