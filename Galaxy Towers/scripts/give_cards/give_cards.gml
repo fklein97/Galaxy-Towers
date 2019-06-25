@@ -6,10 +6,21 @@ var base_x1 = 560
 var base_x2 = 960
 var base_x3 = 1360
 
+if(os_type = os_android){
+	base_x1 = 460
+	base_x2 = 960
+	base_x3 = 1460	
+}
+
 var base_y = 220
 
 var card_w = sprite_get_width(spr_cardback_standart) + 8
 var card_h = sprite_get_height(spr_cardback_standart) + 8
+
+if(os_type = os_android){
+	card_w = sprite_get_width(spr_cardback_standart) * 1.2 + 8
+	card_h = sprite_get_height(spr_cardback_standart) * 1.2  + 8
+}
 
 //layer1
 create_random_card(base_x1,base_y,1,1)

@@ -7,4 +7,9 @@ if(time = 0){
 if(time >= 0 and global.gamemode != "timeless"){
 	time--
 }
-alarm_set(1,120)
+if(os_type = os_android){
+	alarm_set(1,60)
+}
+else{
+	alarm_set(1,120)
+}

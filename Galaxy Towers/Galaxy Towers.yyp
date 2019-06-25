@@ -967,6 +967,14 @@
             }
         },
         {
+            "Key": "54c31826-3f8e-42e4-b0ec-7b83c018a5cc",
+            "Value": {
+                "id": "dc643c17-c278-41e2-88bd-7d0facef64ea",
+                "resourcePath": "objects\\obj_game_logo\\obj_game_logo.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "54d610e4-6e46-4534-9064-c4da0b3b6c31",
             "Value": {
                 "id": "5b364df0-e114-4246-857a-939240210e31",
