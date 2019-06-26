@@ -1,5 +1,5 @@
 if(locked = false){
-	if(type = "cursor"){
+	if(type = "cursor" and os_type = os_windows){
 		cursor_sprite = item_sprite	
 	}
 	else if(type = "cardback"){

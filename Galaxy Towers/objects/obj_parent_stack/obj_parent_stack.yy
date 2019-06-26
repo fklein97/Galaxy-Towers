@@ -59,6 +59,20 @@
             "value": "0",
             "varName": "card_object",
             "varType": 5
+        },
+        {
+            "id": "f4367264-7edd-4e73-b4b3-6d0003edd9a6",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "current_value",
+            "varType": 1
         }
     ],
     "solid": false,

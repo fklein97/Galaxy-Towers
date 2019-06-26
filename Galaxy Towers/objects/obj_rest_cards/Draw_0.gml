@@ -1,4 +1,9 @@
-draw_sprite(spr_card_restcards,-1,self.x,self.y)
+if(os_type = os_android){
+	draw_sprite_ext(spr_card_restcards,-1,self.x,self.y,1.2,1.2,0,c_white,1)
+}
+else{
+	draw_sprite(spr_card_restcards,-1,self.x,self.y)
+}
 if(clicked = true){
 	draw_sprite(spr_card_restcards_animation,animation_index/6,self.x,self.y)
 }

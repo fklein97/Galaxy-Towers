@@ -1,6 +1,6 @@
 var val = argument0
-var mainval = get_card_obj_value(obj_main_stack.card_object)
-var secondval = get_card_obj_value(obj_second_stack.card_object)
+var mainval =	obj_main_stack.current_value		//get_card_obj_value(obj_main_stack.card_object)
+var secondval =	obj_second_stack.current_value			//get_card_obj_value(obj_second_stack.card_object)
 
 if(val = 1 and mainval = 13){
 	return 1;	

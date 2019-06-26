@@ -18,12 +18,12 @@ if(open = true and clickable = true and handler.click_locked = false){
 			card_speed = 35	
 		}
 		if(checked = 1){
-			//obj_main_stack.card_object = self.object_index
+			obj_main_stack.current_value = self.value
 			move_towards_point(obj_main_stack.x,obj_main_stack.y,card_speed)
 			depth = obj_main_stack.depth - 1
 		}
 		else if(checked = 2){
-			//obj_second_stack.card_object = self.object_index
+			obj_second_stack.current_value = self.value
 			move_towards_point(obj_second_stack.x,obj_second_stack.y,card_speed)
 			depth = obj_main_stack.depth - 1
 		}
