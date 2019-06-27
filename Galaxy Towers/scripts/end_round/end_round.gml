@@ -11,11 +11,13 @@ else{
 		score_text = instance_create_depth(obj_rest_cards.x,obj_rest_cards.y - 200, obj_rest_cards.depth-1 ,obj_score_change_text)
 		score_text.change_value = bonus_score
 		
-		time_bonus_score = handler.time * 3000
+		if(global.gamemode != "timeless"){
+			time_bonus_score = handler.time * 3000
 		
-		handler.game_score += time_bonus_score
-		time_score_text = instance_create_depth(880,770, obj_rest_cards.depth-1 ,obj_score_change_text)
-		time_score_text.change_value = time_bonus_score
+			handler.game_score += time_bonus_score
+			time_score_text = instance_create_depth(880,770, obj_rest_cards.depth-1 ,obj_score_change_text)
+			time_score_text.change_value = time_bonus_score
+		}
 	}
 }
 if(instance_exists(obj_tower_clear)){
