@@ -1,3 +1,4 @@
+
 if(instance_exists(obj_card_parent)){
 	with obj_card_parent{
 		instance_destroy(self)	

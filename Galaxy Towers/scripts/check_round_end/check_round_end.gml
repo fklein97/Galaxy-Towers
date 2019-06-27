@@ -21,7 +21,8 @@ if(handler.round_over = false or instance_exists(obj_card_parent)){
 
 	if(global.move_possible = false){
 		with handler{
-			alarm_set(0,120)
+			alarm_set(1,-1) //disable clock
+			alarm_set(0,120) //end round in 120
 			round_over = true
 		}
 	}

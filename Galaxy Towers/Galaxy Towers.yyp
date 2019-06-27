@@ -327,6 +327,14 @@
             }
         },
         {
+            "Key": "1d4fc906-15d6-403d-976b-03b198ba463f",
+            "Value": {
+                "id": "aeafda2c-9e81-4109-834e-430247682011",
+                "resourcePath": "objects\\obj_shop_item_cardback_egypt\\obj_shop_item_cardback_egypt.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1f4e32b6-84b4-44cd-85d5-cc55a678109b",
             "Value": {
                 "id": "341d1210-2027-4616-ad25-42e20410346c",
@@ -2724,6 +2732,14 @@
                 "id": "99a74f94-98a1-402e-ad48-80a77ef57f4f",
                 "resourcePath": "objects\\obj_shop_item_cardback_standart_red\\obj_shop_item_cardback_standart_red.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f1016ac9-7478-48df-b90c-1fe571e0727e",
+            "Value": {
+                "id": "5b752ea7-c567-4e5c-9467-7ab3fefae8b9",
+                "resourcePath": "sprites\\spr_cardback_egypt\\spr_cardback_egypt.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

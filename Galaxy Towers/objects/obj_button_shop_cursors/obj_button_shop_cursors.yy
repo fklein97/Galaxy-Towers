@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_button_shop_cursors",
     "eventList": [
-        
+        {
+            "id": "a222b8c9-d7a8-4f13-90f5-1c1967ad0b46",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 8,
+            "m_owner": "27685bf0-46c1-41e7-87ce-6047a974d694"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": [
