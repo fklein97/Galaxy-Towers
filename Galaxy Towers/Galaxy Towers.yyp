@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "0abbcfcd-94e5-4604-a140-853b0cf94a34",
+            "Value": {
+                "id": "9980efb3-7d5a-447a-beec-70bbec859b35",
+                "resourcePath": "sprites\\spr_button_timeless_scores\\spr_button_timeless_scores.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0bcfa338-3a40-40ba-8727-58c85a044593",
             "Value": {
                 "id": "c78e8e92-45aa-4654-bd70-1dd29e3db926",
@@ -1055,6 +1063,14 @@
             }
         },
         {
+            "Key": "59a56c7b-38a9-47b7-baf8-4441c03d2cb8",
+            "Value": {
+                "id": "3e6fb97b-35ec-436b-bc9f-6015cc0b2aa5",
+                "resourcePath": "sprites\\spr_button_single_round_scores\\spr_button_single_round_scores.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "59b345a0-4b3a-4d31-998d-e9a1b5da6d8b",
             "Value": {
                 "id": "602d5964-ddf9-42cc-9be8-aac4e9a78292",
@@ -1252,6 +1268,14 @@
                 "id": "c706a004-9dc1-4e60-a668-59b7c3fe1bc4",
                 "resourcePath": "scripts\\discord_free_app\\discord_free_app.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "74b2e304-f594-4a4c-a104-645d67ac4182",
+            "Value": {
+                "id": "8162e7fc-f9f1-4719-a211-4c38ac7fd705",
+                "resourcePath": "sprites\\spr_button_classic_scores\\spr_button_classic_scores.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
