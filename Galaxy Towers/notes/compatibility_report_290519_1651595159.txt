@@ -1,4 +1,0 @@
-Umwandlung von GML-Skript: ${project_dir}\scripts\string_split\string_split.gml
-Umgewandelte Beschreibung /// @description string_split(substr, str, ignoreEmptyStrings)/// @param substr
-/// @param  str
-/// @param  ignoreEmptyStrings

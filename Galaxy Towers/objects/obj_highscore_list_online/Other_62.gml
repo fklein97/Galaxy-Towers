@@ -8,8 +8,14 @@ if(start_loading = true){
 	        show_debug_message(text2);
 	        if text2 == "IOException" or text2 == ""
 	        {
-	            text = "Please check your internet connection...";
-	            text2 = "";
+	            if (text2 = "") {
+					text = "Please check your internet connection!"	
+				}
+				if (text2 = "IOException") {
+					text = "IOException"	
+				}
+				
+				text2 = ""
 	        }
 	        else
 	        {
