@@ -11,7 +11,8 @@
         "e04ab61f-5c7d-4b1b-a297-649b76b2f3e3",
         "513873ac-11a0-4db5-b13c-6eb6f80754ce",
         "5cb348b9-c986-41f9-9d95-14e4aca35b8b",
-        "868c39d9-64c3-4f92-8fbb-54db3d9ed3f1"
+        "868c39d9-64c3-4f92-8fbb-54db3d9ed3f1",
+        "262095a0-fac6-485a-be78-33f67491089a"
     ],
     "filterType": "GMScript",
     "folderName": "Cards",

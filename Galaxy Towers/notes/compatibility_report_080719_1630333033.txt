@@ -1,0 +1,163 @@
+Umwandlung von GML-Skript: ${project_dir}\objects\htme_obj_waitforclient\Step_0.gml
+Umgewandelte Beschreibung /// @description Check if client is connected
+
+Umwandlung von GML-Skript: ${project_dir}\objects\htme_obj_waitforclient\Draw_0.gml
+Umgewandelte Beschreibung /// @description Draw text.
+
+Umwandlung von GML-Skript: ${project_dir}\objects\htme_obj_menu\Create_0.gml
+Umgewandelte Beschreibung /// @description Enable debug overlay
+
+Umwandlung von GML-Skript: ${project_dir}\objects\htme_obj_menu\Keyboard_78.gml
+Umgewandelte Beschreibung /// @description START SERVER
+
+Umwandlung von GML-Skript: ${project_dir}\objects\htme_obj_menu\Keyboard_76.gml
+Umgewandelte Beschreibung /// @description GOTO LOBBY
+
+Umwandlung von GML-Skript: ${project_dir}\objects\htme_obj_menu\Keyboard_75.gml
+Umgewandelte Beschreibung /// @description GOTO LAN LOBBY
+
+Umwandlung von GML-Skript: ${project_dir}\objects\htme_obj_menu\Keyboard_66.gml
+Umgewandelte Beschreibung /// @description CONECT TO A SERVER
+
+Umwandlung von GML-Skript: ${project_dir}\objects\htme_obj_menu\Draw_0.gml
+Umgewandelte Beschreibung /// @description Draw greeting text.
+
+Umwandlung von GML-Skript: ${project_dir}\objects\htme_obj_wall\Create_0.gml
+Umgewandelte Beschreibung /// @description DESCRIPTION of this object
+
+Umwandlung von GML-Skript: ${project_dir}\objects\htme_obj_player\Create_0.gml
+Umgewandelte Beschreibung /// @description DESCRIPTION
+
+Umwandlung von GML-Skript: ${project_dir}\objects\htme_obj_player\Step_2.gml
+Umgewandelte Beschreibung /// @description RETRIEVE VARIABLES FROM THE ENGINE
+
+Umwandlung von GML-Skript: ${project_dir}\objects\htme_obj_player\Step_1.gml
+Umgewandelte Beschreibung /// @description ADD VARIABLES TO THE ENGINE
+
+Umwandlung von GML-Skript: ${project_dir}\objects\htme_obj_player\Step_0.gml
+Umgewandelte Beschreibung /// @description Perform platforming!
+
+Umwandlung von GML-Skript: ${project_dir}\objects\htme_obj_player\Collision_929e5d16-b10f-47ee-b771-43e05dabbbe4.gml
+Umgewandelte Beschreibung /// @description Set speed to 0 when hitting a top wall
+
+Umwandlung von GML-Skript: ${project_dir}\objects\htme_obj_player\Draw_0.gml
+Umgewandelte Beschreibung /// @description Draw nameplate
+
+Umwandlung von GML-Skript: ${project_dir}\objects\htme_obj_time\Create_0.gml
+Umgewandelte Beschreibung /// @description DESCRIPTION
+
+Umwandlung von GML-Skript: ${project_dir}\objects\htme_obj_time\Step_2.gml
+Umgewandelte Beschreibung /// @description RETRIEVE VARIABLES FROM THE ENGINE
+
+Umwandlung von GML-Skript: ${project_dir}\objects\htme_obj_time\Step_1.gml
+Umgewandelte Beschreibung /// @description Increase the time.
+
+Umwandlung von GML-Skript: ${project_dir}\objects\htme_obj_time\Step_0.gml
+Umgewandelte Beschreibung /// @description TIME IS ADDED IN BEGIN STEP: HERE'S WHY:
+
+Umwandlung von GML-Skript: ${project_dir}\objects\htme_obj_time\Draw_0.gml
+Umgewandelte Beschreibung /// @description Draw background
+
+Umwandlung von GML-Skript: ${project_dir}\objects\htme_obj_playerlist\Create_0.gml
+Umgewandelte Beschreibung /// @description DESCRIPTION of this object & variable creation
+
+Umwandlung von GML-Skript: ${project_dir}\objects\htme_obj_playerlist\Draw_0.gml
+Umgewandelte Beschreibung /// @description DRAW THE PLAYERLIST.
+
+Umwandlung von GML-Skript: ${project_dir}\objects\htme_obj_door\Collision_b873fb0c-3152-46f8-8c76-99b06b0117d1.gml
+Umgewandelte Beschreibung /// @description CHECK IF DOOR ENTERED
+
+Umwandlung von GML-Skript: ${project_dir}\objects\htme_obj_network_control\Create_0.gml
+Umgewandelte Beschreibung /// @description ENABLE THIS FOR STRESSTESTING
+
+Umwandlung von GML-Skript: ${project_dir}\objects\htme_obj_network_control\Step_0.gml
+Umgewandelte Beschreibung /// @description Check if engine running
+
+Umwandlung von GML-Skript: ${project_dir}\objects\htme_obj_chat\Create_0.gml
+Umgewandelte Beschreibung /// @description DESCRIPTION
+
+Umwandlung von GML-Skript: ${project_dir}\objects\htme_obj_chat\Step_0.gml
+Umgewandelte Beschreibung /// @description "Forge" the chat display
+
+Umwandlung von GML-Skript: ${project_dir}\objects\htme_obj_chat\Other_63.gml
+Umgewandelte Beschreibung /// @description Process the message the player typed in
+
+Umwandlung von GML-Skript: ${project_dir}\objects\htme_obj_chat\Draw_0.gml
+Umgewandelte Beschreibung /// @description Draw the chat output
+
+Umwandlung von GML-Skript: ${project_dir}\objects\htme_obj_chat\KeyPress_67.gml
+Umgewandelte Beschreibung /// @description Type a new message in
+
+Umwandlung von GML-Skript: ${project_dir}\objects\htme_obj_lanlobbydemo\Other_68.gml
+Umgewandelte Beschreibung /// @description LOOKING FOR INCOMING SERVER BROADCASTS
+
+Umwandlung von GML-Skript: ${project_dir}\objects\htme_obj_lanlobbydemo\Other_5.gml
+Umgewandelte Beschreibung /// @description STOP LAN SEARCH
+
+Umwandlung von GML-Skript: ${project_dir}\objects\htme_obj_lanlobbydemo\Draw_0.gml
+Umgewandelte Beschreibung /// @description Background
+
+Umwandlung von GML-Skript: ${project_dir}\objects\htme_obj_lanlobbydemo\KeyPress_82.gml
+Umgewandelte Beschreibung /// @description Call create event
+
+Umwandlung von GML-Skript: ${project_dir}\objects\htme_obj_lanlobbydemo\KeyPress_52.gml
+Umgewandelte Beschreibung /// @description LOAD GAME SERVER ON SLOT 1
+
+Umwandlung von GML-Skript: ${project_dir}\objects\htme_obj_lanlobbydemo\KeyPress_51.gml
+Umgewandelte Beschreibung /// @description LOAD GAME SERVER ON SLOT 1
+
+Umwandlung von GML-Skript: ${project_dir}\objects\htme_obj_lanlobbydemo\KeyPress_50.gml
+Umgewandelte Beschreibung /// @description LOAD GAME SERVER ON SLOT 1
+
+Umwandlung von GML-Skript: ${project_dir}\objects\htme_obj_lanlobbydemo\KeyPress_49.gml
+Umgewandelte Beschreibung /// @description LOAD GAME SERVER ON SLOT 1
+
+Umwandlung von GML-Skript: ${project_dir}\objects\obj_htme\Create_0.gml
+Umgewandelte Beschreibung /// @description htme_init(); - Start engine
+
+Umwandlung von GML-Skript: ${project_dir}\objects\obj_htme\Destroy_0.gml
+Umgewandelte Beschreibung /// @description Disconnect or kick clients if started
+
+Umwandlung von GML-Skript: ${project_dir}\objects\obj_htme\Step_0.gml
+Umgewandelte Beschreibung /// @description htme_step(); - Pass step event to the engine
+
+Umwandlung von GML-Skript: ${project_dir}\objects\obj_htme\Other_68.gml
+Umgewandelte Beschreibung /// @description htme_networking(); - Pass networking event to the engine
+
+Umwandlung von GML-Skript: ${project_dir}\objects\obj_htme\Other_5.gml
+Umgewandelte Beschreibung /// @description htme_roomend(); - Clear up instances
+
+Umwandlung von GML-Skript: ${project_dir}\objects\obj_htme\Other_4.gml
+Umgewandelte Beschreibung /// @description htme_roomstart(); - Sync current room
+
+Umwandlung von GML-Skript: ${project_dir}\objects\obj_htme\Other_3.gml
+Umgewandelte Beschreibung /// @description Disconnect or kick clients if started
+
+Umwandlung von GML-Skript: ${project_dir}\objects\obj_htme\Draw_0.gml
+Umgewandelte Beschreibung /// @description htme_debugoverlay(); - Draw debug overlay
+
+Umwandlung von GML-Skript: ${project_dir}\objects\obj_udphphtme_lobby\Other_68.gml
+Umgewandelte Beschreibung /// @description Waits for master server response
+
+Umwandlung von GML-Skript: ${project_dir}\objects\obj_udphphtme_lobby\Draw_0.gml
+Umgewandelte Beschreibung /// @description Background
+
+Umwandlung von GML-Skript: ${project_dir}\objects\obj_udphphtme_lobby\KeyPress_82.gml
+Umgewandelte Beschreibung /// @description Call create event
+
+Umwandlung von GML-Skript: ${project_dir}\objects\obj_udphphtme_lobby\KeyPress_52.gml
+Umgewandelte Beschreibung /// @description LOAD GAME SERVER ON SLOT 4
+
+Umwandlung von GML-Skript: ${project_dir}\objects\obj_udphphtme_lobby\KeyPress_51.gml
+Umgewandelte Beschreibung /// @description LOAD GAME SERVER ON SLOT 3
+
+Umwandlung von GML-Skript: ${project_dir}\objects\obj_udphphtme_lobby\KeyPress_50.gml
+Umgewandelte Beschreibung /// @description LOAD GAME SERVER ON SLOT 2
+
+Umwandlung von GML-Skript: ${project_dir}\objects\obj_udphphtme_lobby\KeyPress_49.gml
+Umgewandelte Beschreibung /// @description LOAD GAME SERVER ON SLOT 1
+
+Umwandlung von GML-Skript: ${project_dir}\objects\obj_udphphtme_lobby\KeyPress_27.gml
+Umgewandelte Beschreibung /// @description Go back
+
+String not found: ConversionLog_UpdatedCompatibiltyScriptError

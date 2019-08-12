@@ -1,0 +1,544 @@
+Umwandlung von GML-Skript: ${project_dir}\scripts\udphp_createServer\udphp_createServer.gml
+Umgewandelte Beschreibung /// @description udphp_createServer(udp_server,buffer,player_list)/// @param udp_server
+/// @param buffer
+/// @param player_list
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\udphp_serverPunch\udphp_serverPunch.gml
+Umgewandelte Beschreibung /// @description udphp_serverPunch()
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\udphp_serverNetworking\udphp_serverNetworking.gml
+Umgewandelte Beschreibung /// @description udphp_serverNetworking()
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\udphp_stopServer\udphp_stopServer.gml
+Umgewandelte Beschreibung /// @description udphp_stopServer()
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\udphp_serverCommitData\udphp_serverCommitData.gml
+Umgewandelte Beschreibung /// @description udphp_serverCommitData()
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\udphp_serverSetData\udphp_serverSetData.gml
+Umgewandelte Beschreibung /// @description udphp_serverSetData(n,string)/// @param n
+/// @param string
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\udphp_createClient\udphp_createClient.gml
+Umgewandelte Beschreibung /// @description udphp_createClient(udp_socket,server_ip,buffer,directconnect,directconnect_port)/// @param udp_socket
+/// @param server_ip
+/// @param buffer
+/// @param directconnect
+/// @param directconnect_port
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\udphp_clientPunch\udphp_clientPunch.gml
+Umgewandelte Beschreibung /// @description udphp_clientPunch(client_id)/// @param client_id
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\udphp_clientNetworking\udphp_clientNetworking.gml
+Umgewandelte Beschreibung /// @description udphp_clientNetworking(client_id)/// @param client_id
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\udphp_stopClient\udphp_stopClient.gml
+Umgewandelte Beschreibung /// @description udphp_stopClient(client_id)/// @param client_id
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\udphp_clientReadData\udphp_clientReadData.gml
+Umgewandelte Beschreibung /// @description udphp_clientReadData(clientid)/// @param clientid
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\udphp_clientGetServerIP\udphp_clientGetServerIP.gml
+Umgewandelte Beschreibung /// @description udphp_clientGetServerIP(client_id)/// @param client_id
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\udphp_clientGetServerPort\udphp_clientGetServerPort.gml
+Umgewandelte Beschreibung /// @description udphp_clientGetServerPort(client_id)/// @param client_id
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\udphp_playerListIP\udphp_playerListIP.gml
+Umgewandelte Beschreibung /// @description udphp_playerListIP(player)/// @param player
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\udphp_playerListPort\udphp_playerListPort.gml
+Umgewandelte Beschreibung /// @description udphp_playerListPort(player)/// @param player
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\udphp_clientIsConnected\udphp_clientIsConnected.gml
+Umgewandelte Beschreibung /// @description udphp_clientIsConnected(client_id)/// @param client_id
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\udphp_string_explode\udphp_string_explode.gml
+Umgewandelte Beschreibung /// @description udphp_sstring_explode(str,sep,index)/// @param str
+/// @param sep
+/// @param index
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\udphp_handleerror\udphp_handleerror.gml
+Umgewandelte Beschreibung /// @description udphp_handleerror(type,component,client_id,message)/// @param type
+/// @param component
+/// @param client_id
+/// @param message
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\udphp_downloadNetworking\udphp_downloadNetworking.gml
+Umgewandelte Beschreibung /// @description udphp_downloadNetworking()
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\udphp_downloadServerList\udphp_downloadServerList.gml
+Umgewandelte Beschreibung /// @description udphp_downloadServerList([limit],[sortby],[sortby_dir],[filter_data1],[filter_data2],[dfilter_ata3],[filter_data4],[filter_data5],[filter_data6],[dfilter_ata7],[filter_data8])/// @param [limit]
+/// @param [sortby]
+/// @param [sortby_dir]
+/// @param [filter_data1]
+/// @param [filter_data2]
+/// @param [dfilter_ata3]
+/// @param [filter_data4]
+/// @param [filter_data5]
+/// @param [filter_data6]
+/// @param [dfilter_ata7]
+/// @param [filter_data8]
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\udphp_config\udphp_config.gml
+Umgewandelte Beschreibung /// @description udphp_config(master_ip,master_port,reconnect_intv,timeouts,debug,silent)/// @param master_ip
+/// @param master_port
+/// @param reconnect_intv
+/// @param timeouts
+/// @param debug
+/// @param silent
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_init\htme_init.gml
+Umgewandelte Beschreibung /// @description htme_init()
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_debugger\htme_debugger.gml
+Umgewandelte Beschreibung /// @description htme_debugger(scriptname,level,message)/// @param scriptname
+/// @param level
+/// @param message
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_hash\htme_hash.gml
+Umgewandelte Beschreibung /// @description htme_hash()
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_string_explode\htme_string_explode.gml
+Umgewandelte Beschreibung /// @description htme_string_explode(str,sep,index)/// @param str
+/// @param sep
+/// @param index
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_ds_map_find_key\htme_ds_map_find_key.gml
+Umgewandelte Beschreibung /// @description htme_ds_map_find_key(index,value);/// @param index
+/// @param value
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_playerMapPort\htme_playerMapPort.gml
+Umgewandelte Beschreibung /// @description htme_playerMapPort(player)/// @param player
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_playerMapIP\htme_playerMapIP.gml
+Umgewandelte Beschreibung /// @description htme_playerMapIP(player)/// @param player
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_isLocal\htme_isLocal.gml
+Umgewandelte Beschreibung /// @description htme_isLocal();
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_clientIsConnected\htme_clientIsConnected.gml
+Umgewandelte Beschreibung /// @description htme_clientIsConnected()
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_clientConnectionFailed\htme_clientConnectionFailed.gml
+Umgewandelte Beschreibung /// @description htme_clientConnectionFailed()
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_isStarted\htme_isStarted.gml
+Umgewandelte Beschreibung /// @description htme_htme_isStarted()
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_isServer\htme_isServer.gml
+Umgewandelte Beschreibung /// @description htme_isSefver()
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_getPlayers\htme_getPlayers.gml
+Umgewandelte Beschreibung /// @description htme_getPlayers()
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_findPlayerInstance\htme_findPlayerInstance.gml
+Umgewandelte Beschreibung /// @description htme_findPlayerInstance(object,player);/// @param object
+/// @param player
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_debugOverlayEnabled\htme_debugOverlayEnabled.gml
+Umgewandelte Beschreibung /// @description htme_debugOverlayEnabled();
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_setGamename\htme_setGamename.gml
+Umgewandelte Beschreibung /// @description htme_setGamename(name)/// @param name
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_getGamename\htme_getGamename.gml
+Umgewandelte Beschreibung /// @description htme_getGamename()
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_setData\htme_setData.gml
+Umgewandelte Beschreibung /// @description htme_setData(id(2-8),string)/// @param id(2-8
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_getDataServer\htme_getDataServer.gml
+Umgewandelte Beschreibung /// @description htme_getDataServer(id(2-8))/// @param id(2-8
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_commitData\htme_commitData.gml
+Umgewandelte Beschreibung /// @description htme_commitData()
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_getPlayerNumber\htme_getPlayerNumber.gml
+Umgewandelte Beschreibung /// @description htme_getPlayerNumber(playerhash);/// @param playerhash
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_serverDisconnect\htme_serverDisconnect.gml
+Umgewandelte Beschreibung /// @description htme_serverDisconnect(playerhash);/// @param playerhash
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_serverShutdown\htme_serverShutdown.gml
+Umgewandelte Beschreibung /// @description htme_serverShutdown()
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_clientDisconnect\htme_clientDisconnect.gml
+Umgewandelte Beschreibung /// @description htme_clientDisconnect();
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_startLANsearch\htme_startLANsearch.gml
+Umgewandelte Beschreibung /// @description htme_startLANsearch(port,[gamefilter]);/// @param port
+/// @param [gamefilter]
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_stopLANsearch\htme_stopLANsearch.gml
+Umgewandelte Beschreibung /// @description htme_stopLANsearch();
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_getLANServers\htme_getLANServers.gml
+Umgewandelte Beschreibung /// @description htme_getLANServers();
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_serverEventHandlerConnecting\htme_serverEventHandlerConnecting.gml
+Umgewandelte Beschreibung /// @description htme_serverEventHandlerConnecting(script);/// @param script
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_serverEventHandlerDisconnecting\htme_serverEventHandlerDisconnecting.gml
+Umgewandelte Beschreibung /// @description htme_serverEventHandlerDisconnecting(script);/// @param script
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_globalGet\htme_globalGet.gml
+Umgewandelte Beschreibung /// @description htme_globalGet(name);/// @param name
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_globalSet\htme_globalSet.gml
+Umgewandelte Beschreibung /// @description htme_globalSet(name,value,datatype);/// @param name
+/// @param value
+/// @param datatype
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_globalSetFast\htme_globalSetFast.gml
+Umgewandelte Beschreibung /// @description htme_globalSetFast(name,value,datatype);/// @param name
+/// @param value
+/// @param datatype
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_chatGetSender\htme_chatGetSender.gml
+Umgewandelte Beschreibung /// @description htme_chatGetSender(chat_queue_entry)/// @param chat_queue_entry
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_chatGetMessage\htme_chatGetMessage.gml
+Umgewandelte Beschreibung /// @description htme_chatGetMessage(chat_queue_entry)/// @param chat_queue_entry
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_clientStart\htme_clientStart.gml
+Umgewandelte Beschreibung /// @description htme_clientStart(server_ip,server_port);/// @param server_ip
+/// @param server_port
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_serverStart\htme_serverStart.gml
+Umgewandelte Beschreibung /// @description htme_serverStart(port,maxclients)/// @param port
+/// @param maxclients
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_clientCheckConnection\htme_clientCheckConnection.gml
+Umgewandelte Beschreibung /// @description htme_clientCheckConnection();
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_clientConnect\htme_clientConnect.gml
+Umgewandelte Beschreibung /// @description htme_clientConnect();
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_clientSyncSingleVarGroup\htme_clientSyncSingleVarGroup.gml
+Umgewandelte Beschreibung /// @description htme_clientSyncSingleVarGroup(group,buffer);/// @param group
+/// @param buffer
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_clientNetworking\htme_clientNetworking.gml
+Umgewandelte Beschreibung /// @description htme_clientNetworking();
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_clientConnectNetworking\htme_clientConnectNetworking.gml
+Umgewandelte Beschreibung /// @description htme_clientConnect(server_ip,server_port);/// @param server_ip
+/// @param server_port
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_clientCheckConnectionNetworking\htme_clientCheckConnectionNetworking.gml
+Umgewandelte Beschreibung /// @description htme_clientCheckConnectionNetworking();
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_clientRecieveVarGroup\htme_clientRecieveVarGroup.gml
+FEHLER: C:\Users\FKPro\Documents\GitHub\Galaxy Towers\Galaxy Towers\scripts\htme_clientRecieveVarGroup\htme_clientRecieveVarGroup.gml - 42: Verschachtelte Funktionsaufrufe sind nicht gestattet
+FEHLER: C:\Users\FKPro\Documents\GitHub\Galaxy Towers\Galaxy Towers\scripts\htme_clientRecieveVarGroup\htme_clientRecieveVarGroup.gml - 44: Verschachtelte Funktionsaufrufe sind nicht gestattet
+FEHLER: C:\Users\FKPro\Documents\GitHub\Galaxy Towers\Galaxy Towers\scripts\htme_clientRecieveVarGroup\htme_clientRecieveVarGroup.gml - 46: Unerwarteter Syntaxfehler
+FEHLER: C:\Users\FKPro\Documents\GitHub\Galaxy Towers\Galaxy Towers\scripts\htme_clientRecieveVarGroup\htme_clientRecieveVarGroup.gml - 50: Verschachtelte Funktionsaufrufe sind nicht gestattet
+FEHLER: C:\Users\FKPro\Documents\GitHub\Galaxy Towers\Galaxy Towers\scripts\htme_clientRecieveVarGroup\htme_clientRecieveVarGroup.gml - 52: Verschachtelte Funktionsaufrufe sind nicht gestattet
+FEHLER: C:\Users\FKPro\Documents\GitHub\Galaxy Towers\Galaxy Towers\scripts\htme_clientRecieveVarGroup\htme_clientRecieveVarGroup.gml - 54: Verschachtelte Funktionsaufrufe sind nicht gestattet
+FEHLER: C:\Users\FKPro\Documents\GitHub\Galaxy Towers\Galaxy Towers\scripts\htme_clientRecieveVarGroup\htme_clientRecieveVarGroup.gml - 56: Verschachtelte Funktionsaufrufe sind nicht gestattet
+FEHLER: C:\Users\FKPro\Documents\GitHub\Galaxy Towers\Galaxy Towers\scripts\htme_clientRecieveVarGroup\htme_clientRecieveVarGroup.gml - 58: Verschachtelte Funktionsaufrufe sind nicht gestattet
+FEHLER: C:\Users\FKPro\Documents\GitHub\Galaxy Towers\Galaxy Towers\scripts\htme_clientRecieveVarGroup\htme_clientRecieveVarGroup.gml - 60: Verschachtelte Funktionsaufrufe sind nicht gestattet
+FEHLER: C:\Users\FKPro\Documents\GitHub\Galaxy Towers\Galaxy Towers\scripts\htme_clientRecieveVarGroup\htme_clientRecieveVarGroup.gml - 62: Unerwarteter Syntaxfehler
+FEHLER: C:\Users\FKPro\Documents\GitHub\Galaxy Towers\Galaxy Towers\scripts\htme_clientRecieveVarGroup\htme_clientRecieveVarGroup.gml - 66: Verschachtelte Funktionsaufrufe sind nicht gestattet
+FEHLER: C:\Users\FKPro\Documents\GitHub\Galaxy Towers\Galaxy Towers\scripts\htme_clientRecieveVarGroup\htme_clientRecieveVarGroup.gml - 68: Verschachtelte Funktionsaufrufe sind nicht gestattet
+FEHLER: C:\Users\FKPro\Documents\GitHub\Galaxy Towers\Galaxy Towers\scripts\htme_clientRecieveVarGroup\htme_clientRecieveVarGroup.gml - 70: Verschachtelte Funktionsaufrufe sind nicht gestattet
+FEHLER: C:\Users\FKPro\Documents\GitHub\Galaxy Towers\Galaxy Towers\scripts\htme_clientRecieveVarGroup\htme_clientRecieveVarGroup.gml - 74: Verschachtelte Funktionsaufrufe sind nicht gestattet
+FEHLER: C:\Users\FKPro\Documents\GitHub\Galaxy Towers\Galaxy Towers\scripts\htme_clientRecieveVarGroup\htme_clientRecieveVarGroup.gml - 76: Unerwarteter Syntaxfehler
+FEHLER: C:\Users\FKPro\Documents\GitHub\Galaxy Towers\Galaxy Towers\scripts\htme_clientRecieveVarGroup\htme_clientRecieveVarGroup.gml - 87: Unerwarteter Syntaxfehler
+Zu viele Fehler - GML nicht verarbeitet: ${project_dir}\scripts\htme_clientRecieveVarGroup\htme_clientRecieveVarGroup.gml
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_clientStop\htme_clientStop.gml
+Umgewandelte Beschreibung /// @description htme_clientStop()
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_clientBroadcastUnsync\htme_clientBroadcastUnsync.gml
+Umgewandelte Beschreibung /// @description htme_clientBroadcastUnsync(hash)/// @param hash
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_serverCheckConnections\htme_serverCheckConnections.gml
+Umgewandelte Beschreibung /// @description htme_serverCheckConnections();
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_serverSyncSingleVarGroup\htme_serverSyncSingleVarGroup.gml
+Umgewandelte Beschreibung /// @description htme_serverSyncSingleVarGroup(group,buffer);/// @param group
+/// @param buffer
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_serverProcessKicks\htme_serverProcessKicks.gml
+Umgewandelte Beschreibung /// @description htme_serverProcessKicks();
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_serverBroadcast\htme_serverBroadcast.gml
+Umgewandelte Beschreibung /// @description htme_serverProcessKicks();
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_serverNetworking\htme_serverNetworking.gml
+Umgewandelte Beschreibung /// @description htme_serverNetworking()
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_serverSyncPlayersUDPHP\htme_serverSyncPlayersUDPHP.gml
+Umgewandelte Beschreibung /// @description htme_syncPlayersUDPHP()
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_serverConnectNetworking\htme_serverConnectNetworking.gml
+Umgewandelte Beschreibung /// @description htme_serverConnectNetworking()
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_serverCheckConnectionsNetworking\htme_serverCheckConnectionsNetworking.gml
+Umgewandelte Beschreibung /// @description htme_serverCheckConnections();
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_serverRecieveVarGroup\htme_serverRecieveVarGroup.gml
+Umgewandelte Beschreibung /// @description htme_serverRecieveVarGroup(instancehash,playerhash,object_id,inst_stayAlive,instance,tolerance,datatype,groupname,inst_room);/// @param instancehash
+/// @param playerhash
+/// @param object_id
+/// @param inst_stayAlive
+/// @param instance
+/// @param tolerance
+/// @param datatype
+/// @param groupname
+/// @param inst_room
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_serverStop\htme_serverStop.gml
+Umgewandelte Beschreibung /// @description htme_serverStop()
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_serverKickClient\htme_serverKickClient.gml
+Umgewandelte Beschreibung /// @description htme_serverKickClient(client_ip_port);/// @param client_ip_port
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_serverEventPlayerConnected\htme_serverEventPlayerConnected.gml
+Umgewandelte Beschreibung /// @description htme_serverEventPlayerConnected(ip,port);/// @param ip
+/// @param port
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_serverSendBufferToAllExcept\htme_serverSendBufferToAllExcept.gml
+Umgewandelte Beschreibung /// @description htme_serverSendBufferToAllExcept(buffer,exclude,[checkroom])/// @param buffer
+/// @param exclude
+/// @param [checkroom]
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_serverSendAllInstances\htme_serverSendAllInstances.gml
+Umgewandelte Beschreibung /// @description htme_serverSendAllInstances(player);/// @param player
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_serverPlayerIsInRoom\htme_serverPlayerIsInRoom.gml
+Umgewandelte Beschreibung /// @description htme_serverPlayerIsInRoom(player,troom);/// @param player
+/// @param troom
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_serverBroadcastRoomChange\htme_serverBroadcastRoomChange.gml
+Umgewandelte Beschreibung /// @description htme_serverBroadcastRoomChange(hash)/// @param hash
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_serverRecreateInstancesLocal\htme_serverRecreateInstancesLocal.gml
+Umgewandelte Beschreibung /// @description htme_serverRecreateInstancesLocal();
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_serverBroadcastUnsync\htme_serverBroadcastUnsync.gml
+Umgewandelte Beschreibung /// @description htme_serverBroadcastUnsync(hash,[target])/// @param hash
+/// @param [target]
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_chatSendServer\htme_chatSendServer.gml
+Umgewandelte Beschreibung /// @description htme_chatSendServer(channel,message,to)/// @param channel
+/// @param message
+/// @param to
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_serverAskPlayersToResync\htme_serverAskPlayersToResync.gml
+Umgewandelte Beschreibung /// @description htme_serverAskPlayersToResync(room,except);/// @param room
+/// @param except
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_step\htme_step.gml
+Umgewandelte Beschreibung /// @description htme_step()
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_syncInstances\htme_syncInstances.gml
+Umgewandelte Beschreibung /// @description htme_syncInstances()
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_syncSingleVarGroup\htme_syncSingleVarGroup.gml
+Umgewandelte Beschreibung /// @description htme_syncSingleVarGroup(group,target)/// @param group
+/// @param target
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_forceSyncLocalInstances\htme_forceSyncLocalInstances.gml
+Umgewandelte Beschreibung /// @description htme_forceSyncLocalInstances(playerhash);/// @param playerhash
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_syncVar\htme_syncVar.gml
+Umgewandelte Beschreibung /// @description htme_syncVar(buffer,group,datatype,newval,varname,prevSyncMap,[addName]);/// @param buffer
+/// @param group
+/// @param datatype
+/// @param newval
+/// @param varname
+/// @param prevSyncMap
+/// @param [addName]
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_networking\htme_networking.gml
+Umgewandelte Beschreibung /// @description htme_networking()
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_recieveVarGroup\htme_recieveVarGroup.gml
+Umgewandelte Beschreibung /// @description htme_recieveVarGroup();
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_RecieveVar\htme_RecieveVar.gml
+Umgewandelte Beschreibung /// @description htme_RecieveVar(instvar,newval,tolerance,datatype);/// @param instvar
+/// @param newval
+/// @param tolerance
+/// @param datatype
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_recieveGS\htme_recieveGS.gml
+Umgewandelte Beschreibung /// @description htme_recieveGS();
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_networking_searchForBroadcasts\htme_networking_searchForBroadcasts.gml
+Umgewandelte Beschreibung /// @description htme_networking_searchForBroadcasts();
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_roomend\htme_roomend.gml
+Umgewandelte Beschreibung /// @description htme_roomend()
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_shutdown\htme_shutdown.gml
+Umgewandelte Beschreibung /// @description htme_shutdown();
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_roomstart\htme_roomstart.gml
+Umgewandelte Beschreibung /// @description htme_roomstart()
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_cleanUpInstance\htme_cleanUpInstance.gml
+Umgewandelte Beschreibung /// @description htme_cleanUpInstance(inst);/// @param inst
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_isStayAlive\htme_isStayAlive.gml
+Umgewandelte Beschreibung /// @description htme_isStayAlive(hash)/// @param hash
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_sendGS\htme_sendGS.gml
+Umgewandelte Beschreibung /// @description htme_sendGS(target,variable,[exclude]);/// @param target
+/// @param variable
+/// @param [exclude]
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_sendGSFast\htme_sendGSFast.gml
+Umgewandelte Beschreibung /// @description htme_sendGSFast(target,variable,[exclude]);/// @param target
+/// @param variable
+/// @param [exclude]
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_debugoverlay\htme_debugoverlay.gml
+Umgewandeltes builtin - Zeile 29: view_xview -> __view_get( e__VW.XView, 0 )
+Umgewandeltes builtin - Zeile 30: view_xview -> __view_get( e__VW.XView, 0 )
+Umgewandeltes builtin - Zeile 31: view_yview -> __view_get( e__VW.YView, 0 )
+Umgewandeltes builtin - Zeile 32: view_yview -> __view_get( e__VW.YView, 0 )
+Umgewandeltes builtin - Zeile 30: view_wview -> __view_get( e__VW.WView, 0 )
+Umgewandeltes builtin - Zeile 32: view_hview -> __view_get( e__VW.HView, 0 )
+Umgewandelte Beschreibung /// @description htme_debugoverlay();
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_do_createMicro\htme_do_createMicro.gml
+Umgewandelte Beschreibung /// @description htme_debugoverlay_createMicro(player_hash,object_id,instanceid,instancehash,isVisible,isExisting);/// @param player_hash
+/// @param object_id
+/// @param instanceid
+/// @param instancehash
+/// @param isVisible
+/// @param isExisting
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_doDrawInstanceTable\htme_doDrawInstanceTable.gml
+Umgewandelte Beschreibung /// @description htme_debugoverlayDrawInstanceTable(title,type,filter,drawInRoom);/// @param title
+/// @param type
+/// @param filter
+/// @param drawInRoom
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_doMain\htme_doMain.gml
+Umgewandelte Beschreibung /// @description htme_debugoverlayStateMain();
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_dotbd\htme_dotbd.gml
+Umgewandelte Beschreibung /// @description htme_dotbd();
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_doOff\htme_doOff.gml
+Umgewandelte Beschreibung /// @description htme_debugoverlayStateMain();
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_doInstVisible\htme_doInstVisible.gml
+Umgewandelte Beschreibung /// @description htme_debugoverlayStateMain();
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_doInstAll\htme_doInstAll.gml
+Umgewandelte Beschreibung /// @description htme_debugoverlayStateInstAll();
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_doInstInvisible\htme_doInstInvisible.gml
+Umgewandelte Beschreibung /// @description htme_debugoverlayStateInstInvisible();
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_doInstCached\htme_doInstCached.gml
+Umgewandelte Beschreibung /// @description htme_debugoverlayStateInstInvisible();
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_doPlayers\htme_doPlayers.gml
+Umgewandelte Beschreibung /// @description htme_debugoverlayStateInstInvisible();
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_doGlobalSync\htme_doGlobalSync.gml
+Umgewandelte Beschreibung /// @description htme_doGlobalSync();
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_doSignedPackets\htme_doSignedPackets.gml
+Umgewandelte Beschreibung /// @description htme_doGlobalSync(show_inbox);/// @param show_inbox
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_doChat\htme_doChat.gml
+Umgewandelte Beschreibung /// @description htme_doChat();
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_defaultEventHandler\htme_defaultEventHandler.gml
+Umgewandelte Beschreibung /// @description htme_defaultEventHandler(argument0);/// @param argument0
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_chatSend\htme_chatSend.gml
+Umgewandelte Beschreibung /// @description htme_chatSend(channel,message,[to])/// @param channel
+/// @param message
+/// @param [to]
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_sendNewSignedPacket\htme_sendNewSignedPacket.gml
+Umgewandelte Beschreibung /// @description htme_sendNewSignedPacket(buffer,target,[exclude],[room]);/// @param buffer
+/// @param target
+/// @param [exclude]
+/// @param [room]
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_initSignedPacket\htme_initSignedPacket.gml
+Umgewandelte Beschreibung /// @description htme_initSignedPacket(buffer,target);/// @param buffer
+/// @param target
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_sendSingleSignedPacket\htme_sendSingleSignedPacket.gml
+Umgewandelte Beschreibung /// @description htme_sendSingleSignedPacket(target,buffer,n);/// @param target
+/// @param buffer
+/// @param n
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\htme_recieveSignedPackets\htme_recieveSignedPackets.gml
+Umgewandelte Beschreibung /// @description htme_recieveSignedPackets();
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\mp_sync\mp_sync.gml
+Umgewandelte Beschreibung /// @description mp_sync()
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\mp_add\mp_add.gml
+Umgewandelte Beschreibung /// @description mp_add(groupname,variables,datatype,interval);/// @param groupname
+/// @param variables
+/// @param datatype
+/// @param interval
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\mp_addPosition\mp_addPosition.gml
+Umgewandelte Beschreibung /// @description mp_addPosition(groupname,interval);/// @param groupname
+/// @param interval
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\mp_addBuiltinBasic\mp_addBuiltinBasic.gml
+Umgewandelte Beschreibung /// @description mp_addBuiltinBasic(groupname,interval);/// @param groupname
+/// @param interval
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\mp_addBuiltinPhysics\mp_addBuiltinPhysics.gml
+Umgewandelte Beschreibung /// @description mp_addBuiltinPhysics(groupname,interval);/// @param groupname
+/// @param interval
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\mp_unsync\mp_unsync.gml
+Umgewandelte Beschreibung /// @description mp_unsync()
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\mp_setType\mp_setType.gml
+Umgewandelte Beschreibung /// @description mp_setType(group,type)/// @param group
+/// @param type
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\mp_stayAlive\mp_stayAlive.gml
+Umgewandelte Beschreibung /// @description mp_stayAlive();
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\mp_map_syncIn\mp_map_syncIn.gml
+Umgewandelte Beschreibung /// @description mp_map_syncIn(varName, variable)/// @param varName
+/// @param  variable
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\mp_map_syncOut\mp_map_syncOut.gml
+Umgewandelte Beschreibung /// @description mp_map_syncOut(varName, variable)/// @param varName
+/// @param  variable
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\mp_tolerance\mp_tolerance.gml
+Umgewandelte Beschreibung /// @description mp_tolerance(groupname,tolerance)/// @param groupname
+/// @param tolerance
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\mp_syncAsChatHandler\mp_syncAsChatHandler.gml
+Umgewandelte Beschreibung /// @description mp_syncAsChatHandler(channel)/// @param channel
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\mp_chatGetQueue\mp_chatGetQueue.gml
+Umgewandelte Beschreibung /// @description mp_chatGetQueue()
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\mp_chatSend\mp_chatSend.gml
+Umgewandelte Beschreibung /// @description mp_chatSend(message,[to])/// @param message
+/// @param [to]
+
+Umwandlung von GML-Skript: ${project_dir}\scripts\totro\totro.gml
+Umgewandelte Beschreibung /// @description totro(minsyl,maxsyl,n)/// @param minsyl
+/// @param maxsyl
+/// @param n
+
+Kompatibilitätsskript 'instance/instance_create.gml' hinzugefügt
+Kompatibilitätsskript 'object/object_get_depth.gml' hinzugefügt
+Kompatibilitätsskript 'view/__view_get.gml' hinzugefügt
+Kompatibilitätsskript 'view/__init_view.gml' hinzugefügt
+Kompatibilitätsskript '__init_global.gml' hinzugefügt
+Kompatibilitätsskript '__global_object_depths.gml' hinzugefügt

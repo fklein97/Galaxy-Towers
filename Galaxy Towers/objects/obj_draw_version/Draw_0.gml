@@ -4,7 +4,3 @@ draw_set_halign(fa_right)
 draw_set_font(fnt_game_small)
 
 draw_text(x, y, "v" + GM_version);
-
-if(result_ready = true){
-	draw_text(x,y, result)	
-}
