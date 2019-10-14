@@ -15,7 +15,7 @@ global.name = ini_read_string_base64("preferences","lastname", "")
 
 //UNLOCKS
 global.coins = ini_read_real_base64("unlockables","coins", 0)
-
+global.boxes = ini_read_real_base64("unlockables","boxes", 0)
 
 
 
